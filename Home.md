@@ -5,3 +5,6 @@ Outsider's private wiki
 - [Outsider's Dev Story](http://blog.outsider.ne.kr)
 
 ## Pages
+- [[node.js]]
+- [[Famouse Developer]]
+- [[Programming Qoute]]
