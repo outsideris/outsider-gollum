@@ -2,3 +2,5 @@
 - [[Hummingbird|http://projects.nuttnet.net/hummingbird/]] [[Github|https://github.com/mnutt/hummingbird]] : Real time web analytics using node.js and web sockets
 - [[Cloud9 IDE|http://www.cloud9ide.com/]] [[Github|https://github.com/ajaxorg/cloud9]] : The Javascript IDE for Javascripters by Javascripters
 - [[node-chat|https://github.com/scottgonzalez/node-chat]] : Chat server built on node
+- [[JSApp.US|http://jsapp.us/]] : JsApp.US is a hosting platform for node.js applications
+- [[WebShell|https://github.com/fictivekin/webshell]] : A console-based JavaScripty web client utility (using node.js)
