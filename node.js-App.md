@@ -2,4 +2,3 @@
 - [[Hummingbird|http://projects.nuttnet.net/hummingbird/]] [[Github|https://github.com/mnutt/hummingbird]] : Real time web analytics using node.js and web sockets
 - [[Cloud9 IDE|http://www.cloud9ide.com/]] [[Github|https://github.com/ajaxorg/cloud9]] : The Javascript IDE for Javascripters by Javascripters
 - [[node-chat|https://github.com/scottgonzalez/node-chat]] : Chat server built on node
-- [[gollum|https://github.com/github/gollum]] : A simple, Git-powered wiki with a sweet API and local frontend
