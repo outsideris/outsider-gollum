@@ -31,3 +31,4 @@
 ### etc
 - [[Socket.IO|http://socket.io/]] [[Socket.IO client|https://github.com/LearnBoost/Socket.IO]] [[Socket.IO node|https://github.com/LearnBoost/Socket.IO-node]] : Sockets for the rest of us (in Node.js)
 - [[node-canvas|https://github.com/LearnBoost/node-canvas]] : Node canvas is a Cairo backed Canvas implementation for NodeJS
+- [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
