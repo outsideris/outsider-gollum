@@ -20,6 +20,7 @@
 - [[node-mongodb-native|https://github.com/christkv/node-mongodb-native]] : Mongo DB Native NodeJS Driver 
 - [[mongoose|https://github.com/LearnBoost/mongoose]] : Node.JS MongoDB utility library with ORM-like functionalit
 - [[redis|https://github.com/visionmedia/redis]] : Redis key-value store
+- [[node-postgres|https://github.com/brianc/node-postgres]] : PostgreSQL Client for node.js.
 
 ### Web Framework
 - [[express|https://github.com/visionmedia/express]] : Sinatra inspired web development framework for node
@@ -32,3 +33,4 @@
 - [[Socket.IO|http://socket.io/]] [[Socket.IO client|https://github.com/LearnBoost/Socket.IO]] [[Socket.IO node|https://github.com/LearnBoost/Socket.IO-node]] : Sockets for the rest of us (in Node.js)
 - [[node-canvas|https://github.com/LearnBoost/node-canvas]] : Node canvas is a Cairo backed Canvas implementation for NodeJS
 - [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
+- [[node-io|http://node.io/]] [[Github|https://github.com/chriso/node.io]] : A distributed data scraping and processing framework for node.js
