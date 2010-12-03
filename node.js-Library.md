@@ -2,6 +2,8 @@
 - [[npm|http://npmjs.org/]] [[Github|https://github.com/isaacs/npm]] : node.js package manager
 - [[nvm|https://github.com/creationix/nvm]] : Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [[nave|https://github.com/isaacs/nave]] : Virtual Environments for Node
+- [[spark2|https://github.com/davglass/spark2]] : Spark2 is a fork of the Spark command-line tool used to start up node server instances
+- [[forever|https://github.com/indexzero/forever]] : A simple CLI tool for ensuring that a given script runs continuously
 
 ### Debuggin / Profile
 - [[ndb|https://github.com/smtlaissezfaire/ndb]] : The node.js debugger
