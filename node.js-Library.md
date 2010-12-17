@@ -15,6 +15,7 @@
 - [[soda|https://github.com/LearnBoost/soda]] : Selenium Node.JS adapter
 - [[should.js|https://github.com/visionmedia/should.js]] : BDD style assertions for node.js -- test framework agnostic
 - [[expresso|https://github.com/visionmedia/expresso]] : TDD framework for node
+- [[node-gently|https://github.com/felixge/node-gently]] : A node.js module that helps with stubbing and behavior verification.
 
 ### Databases
 - [[node-mongodb-native|https://github.com/christkv/node-mongodb-native]] : Mongo DB Native NodeJS Driver 
@@ -34,3 +35,4 @@
 - [[node-canvas|https://github.com/LearnBoost/node-canvas]] : Node canvas is a Cairo backed Canvas implementation for NodeJS
 - [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [[node-io|http://node.io/]] [[Github|https://github.com/chriso/node.io]] : A distributed data scraping and processing framework for node.js
+- [[node-hot-reload|https://github.com/shimondoodkin/node-hot-reload]] : watchFile and reload modules dynamically for node.js (useful for front end development)
