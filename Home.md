@@ -7,5 +7,5 @@ Outsider's private wiki
 ## Pages
 - [[node.js]]
 - [[Famouse Developer]]
-- [[Programming Qoute]]
+- [[Programming Qoutes]]
 
