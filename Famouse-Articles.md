@@ -1,0 +1,2 @@
+- [[Code Kata에 대한 데이브 토머스의 글|http://codekata.pragprog.com/2007/01/code_kata_backg.html]]
+- [[프로그래밍 도장에 대한 엉클밥의 글|http://butunclebob.com/ArticleS.UncleBob.TheProgrammingDojo]]
