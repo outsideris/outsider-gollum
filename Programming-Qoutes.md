@@ -1,0 +1,4 @@
+- **Use the source, Luke** : 스타워즈에서 오비완 케노비가 루크 스카이워커에게 했던 "Use the Force, Luke."의 패러디
+- **견습과정은 기예를 통달하겠다는 필생의 열정을 서서히 불어넣는다는 점에서 중요하다. 이는 끊임없이 배우고자 하는 열정을 점점 쌓이게 하며, 그런 과정속에서 견습생은 탁월한 개발자가 될 수 있다.** by 피트 맥브린 "Software Craftsmanship"
+- **무참한 실패를 맛본 적이 한번도 없다면, 당신은 뭔가 가치 있는 일을 시도했던 적이 한 번도 없다고 봐야 한다.** by 프리스토퍼 호킨스(Christopher Hawkins), "So You Want To Be a Software Consultant?"
+- **정말로 프로그래밍을 잘 하게 된다는 것은 일생의 과업이며, 지속적인 배움과 연습으로 이루어가는 대담한 계획이다.** by 론 제프리스 외, "Extreme Programming Installed"
