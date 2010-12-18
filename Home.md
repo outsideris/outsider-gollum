@@ -9,4 +9,5 @@ Outsider's private wiki
 - [[Famouse Developer]]
 - [[Programming Qoutes]]
 - [[Famouse Articles]]
+- [[Abbreviations]]
 
