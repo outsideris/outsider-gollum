@@ -1,1 +1,2 @@
 - RFC : Request for Comments
+- REST : Representation State Transfer
