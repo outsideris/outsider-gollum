@@ -36,3 +36,4 @@
 - [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [[node-io|http://node.io/]] [[Github|https://github.com/chriso/node.io]] : A distributed data scraping and processing framework for node.js
 - [[node-hot-reload|https://github.com/shimondoodkin/node-hot-reload]] : watchFile and reload modules dynamically for node.js (useful for front end development)
+ - [[FAYE|http://faye.jcoglan.com/]] : Simple pub/sub messaging for the web
