@@ -2,10 +2,12 @@
 - [[npm|http://npmjs.org/]] [[Github|https://github.com/isaacs/npm]] : node.js package manager
 - [[nvm|https://github.com/creationix/nvm]] : Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [[nave|https://github.com/isaacs/nave]] : Virtual Environments for Node
+- [[n|https://github.com/visionmedia/n]] : Node version management
 - [[spark2|https://github.com/davglass/spark2]] : Spark2 is a fork of the Spark command-line tool used to start up node server instances
 - [[forever|https://github.com/indexzero/forever]] : A simple CLI tool for ensuring that a given script runs continuously
+- [[node-supervisor|https://github.com/isaacs/node-supervisor]] : code hot-swap, app automatic restart
 
-### Debuggin / Profile
+### Debugging / Profile
 - [[ndb|https://github.com/smtlaissezfaire/ndb]] : The node.js debugger
 - [[node-inspector|https://github.com/dannycoates/node-inspector]] : Web Inspector based nodeJS debugger
 - [[v8-profiler|https://github.com/dannycoates/v8-profiler]] : node bindings for the v8 profiler 
@@ -16,6 +18,13 @@
 - [[should.js|https://github.com/visionmedia/should.js]] : BDD style assertions for node.js -- test framework agnostic
 - [[expresso|https://github.com/visionmedia/expresso]] : TDD framework for node
 - [[node-gently|https://github.com/felixge/node-gently]] : A node.js module that helps with stubbing and behavior verification.
+- [[tobi|https://github.com/learnboost/tobi]] : Expressive server-side functional testing with jQuery
+- [[should.js|https://github.com/visionmedia/should.js]] : BDD style assertions for node.js
+- [[Zombie.js|http://zombie.labnotes.org/]] [[Github|https://github.com/assaf/zombie]] : Insanely fast, headless full-stack testing using Node.js
+
+### Productivity
+- [[nodemon|https://github.com/remy/nodemon]] : Monitor for any changes in your node.js application and automatically restart the server
+- [[node-hot-reload|https://github.com/shimondoodkin/node-hot-reload]] : hot-reload if code changed
 
 ### Databases
 - [[node-mongodb-native|https://github.com/christkv/node-mongodb-native]] : Mongo DB Native NodeJS Driver 
@@ -29,6 +38,9 @@
 - [[jade|http://jade-lang.com/]] [[Github|https://github.com/visionmedia/jade]] : robust, incredibly feature rich template engine for nodejs 
 - [[connect|https://github.com/senchalabs/connect]] : Connect is a middleware layer for Node.js
 - [[node-http-proxy|https://github.com/nodejitsu/node-http-proxy]] : A full-featured http proxy for node.js
+
+### Utility
+- [[jsdom|http://jsdom.org/]] [[Github|https://github.com/tmpvar/jsdom]] : CommonJS implementation of the DOM
 
 ### etc
 - [[Socket.IO|http://socket.io/]] [[Socket.IO client|https://github.com/LearnBoost/Socket.IO]] [[Socket.IO node|https://github.com/LearnBoost/Socket.IO-node]] : Sockets for the rest of us (in Node.js)
