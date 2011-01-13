@@ -4,3 +4,4 @@
 - [[node-chat|https://github.com/scottgonzalez/node-chat]] : Chat server built on node
 - [[JSApp.US|http://jsapp.us/]] : JsApp.US is a hosting platform for node.js applications
 - [[WebShell|https://github.com/fictivekin/webshell]] : A console-based JavaScripty web client utility (using node.js)
+- [[jspp|http://jspp.io/]] [[Github|https://github.com/mikeal/jspp]] : JavaScript Pre-Processor
