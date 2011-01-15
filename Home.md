@@ -4,4 +4,6 @@
 - [[Programming Qoutes]]
 - [[Famouse Articles]]
 - [[Abbreviations]]
+- [[Works]]
+- [[Projects]]
 
