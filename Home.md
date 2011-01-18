@@ -1,6 +1,6 @@
 ## Pages
 - [[node.js]]
-- [[Famouse Developer]]
+- [[Famouse Developers]]
 - [[Programming Qoutes]]
 - [[Famouse Articles]]
 - [[Abbreviations]]
