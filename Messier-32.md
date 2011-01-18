@@ -11,6 +11,9 @@
 - jQuery
 - Tomcat 6.0
 
+### Period
+2010.6
+
 ### Etc
 - [시연 동영상](http://blog.outsider.ne.kr/myexample/2010/m32/m32.swf)
 - [프로젝트 후기](http://blog.outsider.ne.kr/488)
