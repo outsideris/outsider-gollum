@@ -13,6 +13,9 @@
 - Tomcat 6.0
 - Oracle 10g Express Edition
 
+### Period
+2009.12 ~ 2010.1
+
 ### Etc
 - [시연 동영상](http://www.youtube.com/watch?v=lHMWcdQJH1o)
 - [프로젝트 후기](http://blog.outsider.ne.kr/424)
