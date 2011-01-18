@@ -1,0 +1,6 @@
+- Brendan Eich : JavaScript의 창시자
+- Douglas Crockford : Yahoo! Javascript 아키텍쳐
+- Hakon Wium Lie : CSS의 창시자로 Opera Software CTO
+- James Jesse Garrett : Adaptive Path의 co-founder중 한 명으로 Ajax란 말을 만든 사람
+- Joe Hewitt : Firebug, DOM Inspector 창시자 최근에는 iUI 만듬
+- John Resig : jQuery의 창시자
