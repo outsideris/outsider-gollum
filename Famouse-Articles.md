@@ -1,3 +1,7 @@
-- [[Code Kata에 대한 데이브 토머스의 글|http://codekata.pragprog.com/2007/01/code_kata_backg.html]]
-- [[프로그래밍 도장에 대한 엉클밥의 글|http://butunclebob.com/ArticleS.UncleBob.TheProgrammingDojo]]
-- [[JUnit 1.0 : Test infected|http://members.pingnet.ch/gamma]] : 에릭감마와 켄트벡이 비행기에서 작성했던 첫 JUnit
+- [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php) : Jesse James Garrett이 처음 Ajax를 정의한 글
+- [Code Kata에 대한 데이브 토머스의 글](http://codekata.pragprog.com/2007/01/code_kata_backg.html)
+- [프로그래밍 도장에 대한 엉클밥의 글](http://butunclebob.com/ArticleS.UncleBob.TheProgrammingDojo)
+- [JUnit 1.0 : Test infected](http://members.pingnet.ch/gamma) : 에릭감마와 켄트벡이 비행기에서 작성했던 첫 JUnit
+- [JavaScript:The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html) : Douglas Croford의 JavaScript에 대한 글
+- [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) : Martin Fowler의 DI에 대한 글
+- [Comet: Low Latency Data for the Browser](http://infrequently.org/2006/03/comet-low-latency-data-for-the-browser/) : DOJO의 Alex Russell이 Comet이란 용어를 정의한 글
