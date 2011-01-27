@@ -7,4 +7,4 @@
 
 ## Experiment
 ### 2011
-- [1to50](http://labs.sideeffect.kr/2011/1to50/) : simple example of 1to50 iphone game for graduation work of [FRENDS Cappuccino Study](http://wiki.frends.kr/index.php/Cappuccino)
+- [1to50](http://labs.sideeffect.kr/2011/1to50/) : simple cappuccino example of 1to50 iphone game for graduation work of [FRENDS Cappuccino Study](http://wiki.frends.kr/index.php/Cappuccino)
