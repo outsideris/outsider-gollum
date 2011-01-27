@@ -1,7 +1,7 @@
-- [[masteringnode|https://github.com/visionmedia/masteringnode]] : Open source eBook for nodejs 
-- [[Hummingbird|http://projects.nuttnet.net/hummingbird/]] [[Github|https://github.com/mnutt/hummingbird]] : Real time web analytics using node.js and web sockets
-- [[Cloud9 IDE|http://www.cloud9ide.com/]] [[Github|https://github.com/ajaxorg/cloud9]] : The Javascript IDE for Javascripters by Javascripters
-- [[node-chat|https://github.com/scottgonzalez/node-chat]] : Chat server built on node
-- [[JSApp.US|http://jsapp.us/]] : JsApp.US is a hosting platform for node.js applications
-- [[WebShell|https://github.com/fictivekin/webshell]] : A console-based JavaScripty web client utility (using node.js)
-- [[jspp|http://jspp.io/]] [[Github|https://github.com/mikeal/jspp]] : JavaScript Pre-Processor
+- [masteringnode](https://github.com/visionmedia/masteringnode) : Open source eBook for nodejs 
+- [Hummingbird](http://projects.nuttnet.net/hummingbird/) : Real time web analytics using node.js and web sockets [Github](https://github.com/mnutt/hummingbird)
+- [Cloud9 IDE](http://www.cloud9ide.com/]] : The Javascript IDE for Javascripters by Javascripters [Github](https://github.com/ajaxorg/cloud9)
+- [node-chat](https://github.com/scottgonzalez/node-chat) : Chat server built on node
+- [JSApp.US](http://jsapp.us/) : JsApp.US is a hosting platform for node.js applications
+- [WebShell](https://github.com/fictivekin/webshell) : A console-based JavaScripty web client utility (using node.js)
+- [jspp](http://jspp.io/) : JavaScript Pre-Processor [Github](https://github.com/mikeal/jspp)
