@@ -4,3 +4,7 @@
 
 ### 2011
 - [Introducing to node.js](http://www.slideshare.net/rockdoli/introducing-to-nodejs) : Presentation for node.js in HTML5 Adhoc Group of [Mobile Web2.0 Forum](http://www.mobileok.kr/web/forum1/purpose.php) ([post](http://blog.outsider.ne.kr/577))
+
+## Experiment
+### 2011
+- [1to50](http://labs.sideeffect.kr/2011/1to50/) : simple example of 1to50 iphone game for graduation work of [FRENDS Cappuccino Study](http://wiki.frends.kr/index.php/Cappuccino)
