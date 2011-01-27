@@ -1,5 +1,5 @@
 ### Management
-- [[npm|http://npmjs.org/]] [[Github|https://github.com/isaacs/npm]] : node.js package manager
+- [[npm|http://npmjs.org/]] : node.js package manager [[Github|https://github.com/isaacs/npm]]
 - [[nvm|https://github.com/creationix/nvm]] : Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [[nave|https://github.com/isaacs/nave]] : Virtual Environments for Node
 - [[n|https://github.com/visionmedia/n]] : Node version management
@@ -13,14 +13,14 @@
 - [[v8-profiler|https://github.com/dannycoates/v8-profiler]] : node bindings for the v8 profiler 
 
 ### Testing
-- [[Vows|http://vowsjs.org/]] [[Github|https://github.com/cloudhead/vows]] : Asynchronous behaviour driven development for Node
+- [[Vows|http://vowsjs.org/]] : Asynchronous behaviour driven development for Node [[Github|https://github.com/cloudhead/vows]]
 - [[soda|https://github.com/LearnBoost/soda]] : Selenium Node.JS adapter
 - [[should.js|https://github.com/visionmedia/should.js]] : BDD style assertions for node.js -- test framework agnostic
 - [[expresso|https://github.com/visionmedia/expresso]] : TDD framework for node
 - [[node-gently|https://github.com/felixge/node-gently]] : A node.js module that helps with stubbing and behavior verification.
 - [[tobi|https://github.com/learnboost/tobi]] : Expressive server-side functional testing with jQuery
 - [[should.js|https://github.com/visionmedia/should.js]] : BDD style assertions for node.js
-- [[Zombie.js|http://zombie.labnotes.org/]] [[Github|https://github.com/assaf/zombie]] : Insanely fast, headless full-stack testing using Node.js
+- [[Zombie.js|http://zombie.labnotes.org/]] : Insanely fast, headless full-stack testing using Node.js [[Github|https://github.com/assaf/zombie]]
 
 ### Productivity
 - [[nodemon|https://github.com/remy/nodemon]] : Monitor for any changes in your node.js application and automatically restart the server
@@ -35,17 +35,17 @@
 ### Web Framework
 - [[express|https://github.com/visionmedia/express]] : Sinatra inspired web development framework for node
 - [[fab|http://fabjs.org/]] : a modular async web framework for node.js
-- [[jade|http://jade-lang.com/]] [[Github|https://github.com/visionmedia/jade]] : robust, incredibly feature rich template engine for nodejs 
+- [[jade|http://jade-lang.com/]] : robust, incredibly feature rich template engine for nodejs [[Github|https://github.com/visionmedia/jade]]
 - [[connect|https://github.com/senchalabs/connect]] : Connect is a middleware layer for Node.js
 - [[node-http-proxy|https://github.com/nodejitsu/node-http-proxy]] : A full-featured http proxy for node.js
 
 ### Utility
-- [[jsdom|http://jsdom.org/]] [[Github|https://github.com/tmpvar/jsdom]] : CommonJS implementation of the DOM
+- [[jsdom|http://jsdom.org/]] : CommonJS implementation of the DOM [[Github|https://github.com/tmpvar/jsdom]]
 
 ### etc
 - [[Socket.IO|http://socket.io/]] [[Socket.IO client|https://github.com/LearnBoost/Socket.IO]] [[Socket.IO node|https://github.com/LearnBoost/Socket.IO-node]] : Sockets for the rest of us (in Node.js)
 - [[node-canvas|https://github.com/LearnBoost/node-canvas]] : Node canvas is a Cairo backed Canvas implementation for NodeJS
 - [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
-- [[node-io|http://node.io/]] [[Github|https://github.com/chriso/node.io]] : A distributed data scraping and processing framework for node.js
+- [[node-io|http://node.io/]] : A distributed data scraping and processing framework for node.js [[Github|https://github.com/chriso/node.io]]
 - [[node-hot-reload|https://github.com/shimondoodkin/node-hot-reload]] : watchFile and reload modules dynamically for node.js (useful for front end development)
  - [[FAYE|http://faye.jcoglan.com/]] : Simple pub/sub messaging for the web
