@@ -6,6 +6,7 @@
 - [[spark2|https://github.com/davglass/spark2]] : Spark2 is a fork of the Spark command-line tool used to start up node server instances
 - [[forever|https://github.com/indexzero/forever]] : A simple CLI tool for ensuring that a given script runs continuously
 - [[node-supervisor|https://github.com/isaacs/node-supervisor]] : code hot-swap, app automatic restart
+- [fugue](https://github.com/pgte/fugue) : Multiple node server instance manager with Unicorn-like features
 
 ### Debugging / Profile
 - [[ndb|https://github.com/smtlaissezfaire/ndb]] : The node.js debugger
@@ -30,7 +31,8 @@
 - [[node-mongodb-native|https://github.com/christkv/node-mongodb-native]] : Mongo DB Native NodeJS Driver 
 - [[mongoose|https://github.com/LearnBoost/mongoose]] : Node.JS MongoDB utility library with ORM-like functionalit
 - [[redis|https://github.com/visionmedia/redis]] : Redis key-value store
-- [[node-postgres|https://github.com/brianc/node-postgres]] : PostgreSQL Client for node.js.
+- [[node-postgres|https://github.com/brianc/node-postgres]] : PostgreSQL Client for node.js
+- [mongolia](https://github.com/masylum/mongolia) : wrapper for the nodejs MongoDB driver
 
 ### Web Framework
 - [[express|https://github.com/visionmedia/express]] : Sinatra inspired web development framework for node
@@ -38,6 +40,8 @@
 - [[jade|http://jade-lang.com/]] : robust, incredibly feature rich template engine for nodejs [[Github|https://github.com/visionmedia/jade]]
 - [[connect|https://github.com/senchalabs/connect]] : Connect is a middleware layer for Node.js
 - [[node-http-proxy|https://github.com/nodejitsu/node-http-proxy]] : A full-featured http proxy for node.js
+- [drty](https://github.com/drtyhbo/drty) : A django port to node.js
+- [express-on-railway](https://github.com/1602/express-on-railway) : Some Ruby-On-Rails features for Express.js framework 
 
 ### Utility
 - [[jsdom|http://jsdom.org/]] : CommonJS implementation of the DOM [[Github|https://github.com/tmpvar/jsdom]]
@@ -48,4 +52,7 @@
 - [[node-jake|https://github.com/mde/node-jake]] : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [[node-io|http://node.io/]] : A distributed data scraping and processing framework for node.js [[Github|https://github.com/chriso/node.io]]
 - [[node-hot-reload|https://github.com/shimondoodkin/node-hot-reload]] : watchFile and reload modules dynamically for node.js (useful for front end development)
- - [[FAYE|http://faye.jcoglan.com/]] : Simple pub/sub messaging for the web
+- [[FAYE|http://faye.jcoglan.com/]] : Simple pub/sub messaging for the web
+- [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
+- [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
+- [node.io](https://github.com/chriso/node.io) : a distributed data scraping and processing framework
