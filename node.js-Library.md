@@ -45,6 +45,7 @@
 
 ### Utility
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
+- [UglifyJS](https://github.com/mishoo/UglifyJS) : JavaScript parser / mangler / compressor / beautifier library for NodeJS
 
 ### etc
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
