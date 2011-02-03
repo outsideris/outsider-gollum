@@ -32,6 +32,7 @@
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
 - [mongoose](https://github.com/LearnBoost/mongoose) : Node.JS MongoDB utility library with ORM-like functionalit
 - [redis](https://github.com/visionmedia/redis) : Redis key-value store
+- [node_redis](https://github.com/mranney/node_redis) : redis client for node
 - [node-postgres](https://github.com/brianc/node-postgres) : PostgreSQL Client for node.js
 - [mongolia](https://github.com/masylum/mongolia) : wrapper for the nodejs MongoDB driver
 
