@@ -4,7 +4,6 @@
 - [[Works]]
 - [[Projects]]
 
-
 ### Technique
 - [[node.js]]
 - [[Scala]]
