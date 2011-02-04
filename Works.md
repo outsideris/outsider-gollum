@@ -4,6 +4,7 @@
 
 ### 2011
 - [Introducing to node.js](http://www.slideshare.net/rockdoli/introducing-to-nodejs) : Presentation for node.js in HTML5 Adhoc Group of [Mobile Web2.0 Forum](http://www.mobileok.kr/web/forum1/purpose.php) ([post](http://blog.outsider.ne.kr/577))
+- [What is nodejs](http://www.slideshare.net/rockdoli/what-is-nodejs-6751599) : Presentation for node.js in [SpringSprout](http://www.springsprout.org/) [Swagger](http://www.springsprout.org/study/4494) ([post](http://blog.outsider.ne.kr/587))
 
 ## Experiment
 ### 2011
