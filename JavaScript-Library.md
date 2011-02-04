@@ -4,3 +4,6 @@
 ### Canvas
 - [Tween.js](https://github.com/sole/tween.js)
 - [three.js](https://github.com/mrdoob/three.js) : Javascript 3D Engine
+
+### Chart
+- [AwesomeChartJS](http://cyberpython.github.com/AwesomeChartJS/)
