@@ -8,5 +8,8 @@
 ### Chart
 - [AwesomeChartJS](http://cyberpython.github.com/AwesomeChartJS/)
 
+### Game Engine
+- [LimeJS](http://www.limejs.com/) : HTML5 game framework for building fast, native-experience games for all modern touchscreens and desktop browsers.
+
 ### etc
 - [Treesaver.js](http://treesaverjs.com/) : framework for creating magazine-style layouts using standards-compliant HTML and CSS.
