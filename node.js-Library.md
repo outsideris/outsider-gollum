@@ -58,3 +58,4 @@
 - [FAYE](http://faye.jcoglan.com/) : Simple pub/sub messaging for the web
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
+- [node-notifo](https://github.com/nerocreativo/node-notifo) : Real-time notifications pushed to your mobile phone
