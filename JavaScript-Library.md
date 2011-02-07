@@ -7,3 +7,6 @@
 
 ### Chart
 - [AwesomeChartJS](http://cyberpython.github.com/AwesomeChartJS/)
+
+### etc
+- [Treesaver.js](http://treesaverjs.com/) : framework for creating magazine-style layouts using standards-compliant HTML and CSS.
