@@ -5,3 +5,4 @@
 - [JSApp.US](http://jsapp.us/) : JsApp.US is a hosting platform for node.js applications
 - [WebShell](https://github.com/fictivekin/webshell) : A console-based JavaScripty web client utility (using node.js)
 - [jspp](http://jspp.io/) : JavaScript Pre-Processor [Github](https://github.com/mikeal/jspp)
+- [query](https://github.com/visionmedia/query) : command-line jquery
