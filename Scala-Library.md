@@ -11,3 +11,4 @@
 
 ### etc
 - [Lifty](http://lifty.github.com/) : Lifty adds scaffolding to sbt (Simple Build Tool) and includes templates for Lift including new projects, adding snippets, models, comet actors, and other templates for Lift-base projects.
+- [Scala IO](http://jesseeichar.github.com/scala-io/) : The Scala IO umbrella project consists of a few sub projects for different aspects and extensions of IO
