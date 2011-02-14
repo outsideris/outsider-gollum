@@ -49,9 +49,12 @@
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
 - [UglifyJS](https://github.com/mishoo/UglifyJS) : JavaScript parser / mangler / compressor / beautifier library for NodeJS
 
+### View
+- [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
+- [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
+
 ### etc
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
-- [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
 - [node-jake](https://github.com/mde/node-jake) : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [node-io](http://node.io/) : A distributed data scraping and processing framework for node.js [Github](https://github.com/chriso/node.io)
 - [node-hot-reload|https://github.com/shimondoodkin/node-hot-reload) : watchFile and reload modules dynamically for node.js (useful for front end development)
