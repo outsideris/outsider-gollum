@@ -5,9 +5,11 @@
 - [[Projects]]
 
 ### Technique
-- [[node.js]]
+- [[Java]]
 - [[Scala]]
+- [[node.js]]
 - [[JavaScript]]
+- [[Coffeescript]]
 
 ### etc
 - [[Famouse Developers]]
