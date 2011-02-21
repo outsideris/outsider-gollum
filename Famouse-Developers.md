@@ -4,3 +4,5 @@
 - James Jesse Garrett : Adaptive Path의 co-founder중 한 명으로 Ajax란 말을 만든 사람
 - Joe Hewitt : Firebug, DOM Inspector 창시자 최근에는 iUI 만듬
 - John Resig : jQuery의 창시자
+- GoF(Gang of Four) : Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- Rod Johnson : Spirng의 창시자
