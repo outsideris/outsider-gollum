@@ -6,3 +6,4 @@
 - John Resig : jQuery의 창시자
 - GoF(Gang of Four) : Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - Rod Johnson : Spirng의 창시자
+- Brad Cox : Objective-C 언어를 디자인 한 사람
