@@ -40,7 +40,6 @@
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
 - [fab](http://fabjs.org/) : a modular async web framework for node.js
-- [jade](http://jade-lang.com/) : robust, incredibly feature rich template engine for nodejs [Github](https://github.com/visionmedia/jade)
 - [connect](https://github.com/senchalabs/connect) : Connect is a middleware layer for Node.js
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) : A full-featured http proxy for node.js
 - [drty](https://github.com/drtyhbo/drty) : A django port to node.js
@@ -53,6 +52,8 @@
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
 - [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
+- [weld](https://github.com/hij1nx/weld) : Template antimater for Node.JS 
+- [jade](http://jade-lang.com/) : robust, incredibly feature rich template engine for nodejs [Github](https://github.com/visionmedia/jade)
 
 ### etc
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
