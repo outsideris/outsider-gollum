@@ -17,3 +17,4 @@
 
 ### etc
 - [Treesaver.js](http://treesaverjs.com/) : framework for creating magazine-style layouts using standards-compliant HTML and CSS.
+- [jQuery Terminal](http://terminal.jcubic.pl/) : JQuery Terminal Emulator is a plugin for creating command line interpreters in your applications.
