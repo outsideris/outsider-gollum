@@ -7,6 +7,7 @@
 - [forever](https://github.com/indexzero/forever) : A simple CLI tool for ensuring that a given script runs continuously
 - [node-supervisor](https://github.com/isaacs/node-supervisor) : code hot-swap, app automatic restart
 - [fugue](https://github.com/pgte/fugue) : Multiple node server instance manager with Unicorn-like features
+- [ngen](https://github.com/visionmedia/ngen) : a nodejs package generator, complete with best practices, package structure, package.json and more.
 
 ### Debugging / Profile
 - [ndb](https://github.com/smtlaissezfaire/ndb) : The node.js debugger
