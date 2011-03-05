@@ -1,1 +1,2 @@
 - [[Scala Library]]
+- [[Scala Util]]
