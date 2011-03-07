@@ -8,6 +8,7 @@
 - [node-supervisor](https://github.com/isaacs/node-supervisor) : code hot-swap, app automatic restart
 - [fugue](https://github.com/pgte/fugue) : Multiple node server instance manager with Unicorn-like features
 - [ngen](https://github.com/visionmedia/ngen) : a nodejs package generator, complete with best practices, package structure, package.json and more.
+- [Cluster](http://learnboost.github.com/cluster/) : extensible multi-core server management for nodejs.
 
 ### Debugging / Profile
 - [ndb](https://github.com/smtlaissezfaire/ndb) : The node.js debugger
