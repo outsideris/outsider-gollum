@@ -11,3 +11,11 @@
 - **자기 성찰은 쉽지 않은 일이지만, 우리는 자신의 성공보다 실패를 연구함으로써 더 많이 배울 수 있다고 나는 믿는다.** by 노엄 커스(Norm Kerth), "Project Retrospectives"
 
 - ** It's very easy to be different, but very difficult to be better.** by Jonathan Ive
+
+- **The best way to predict the future is to invent it.** by Alan Kay 
+
+- **Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.** by Antoine de Saint Exupéry
+
+- **Walking on water and developing software from a specification are easy if both are frozen.** by Edward V Berard
+
+- **Java is to JavaScript what Car is to Carpet.** by Chris Heilmann
