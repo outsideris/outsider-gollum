@@ -1,3 +1,5 @@
+- [nithub](http://2.no.de/) : Nithub mashes up the npm and github apis to organize and rank npm packages
+
 ### Management
 - [npm](http://npmjs.org/) : node.js package manager [Github](https://github.com/isaacs/npm)
 - [nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple bash script to manage multiple active node.js versions
