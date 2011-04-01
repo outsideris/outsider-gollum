@@ -6,3 +6,4 @@
 - [WebShell](https://github.com/fictivekin/webshell) : A console-based JavaScripty web client utility (using node.js)
 - [jspp](http://jspp.io/) : JavaScript Pre-Processor [Github](https://github.com/mikeal/jspp)
 - [query](https://github.com/visionmedia/query) : command-line jquery
+- [node-gitProvider](https://github.com/TooTallNate/node-gitProvider) : An http/connect/stack layer to serve the contents of a 'git' repository over HTTP
