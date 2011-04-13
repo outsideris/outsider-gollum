@@ -12,10 +12,12 @@
 
 - ** It's very easy to be different, but very difficult to be better.** by Jonathan Ive
 
+- ** It's very easy to be different, but very difficult to be better.** by Jonathan Ive
+
 - **The best way to predict the future is to invent it.** by Alan Kay 
 
 - **Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.** by Antoine de Saint Exupéry
 
 - **Walking on water and developing software from a specification are easy if both are frozen.** by Edward V Berard
 
-- **Java is to JavaScript what Car is to Carpet.** by Chris Heilmann
+- **It couldn't get any shorter unless it read yourmind (코드는 이해할 수 없다면 짧아질 수 없다.)** by Dave Methvin
