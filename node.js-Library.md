@@ -72,3 +72,4 @@
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
 - [node-notifo](https://github.com/nerocreativo/node-notifo) : Real-time notifications pushed to your mobile phone
 - [Node-API-Simulator](https://github.com/mlowicki/node-api-simulator)
+- [node.io](http://node.io/)
