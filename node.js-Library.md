@@ -73,3 +73,4 @@
 - [node-notifo](https://github.com/nerocreativo/node-notifo) : Real-time notifications pushed to your mobile phone
 - [Node-API-Simulator](https://github.com/mlowicki/node-api-simulator)
 - [node.io](http://node.io/)
+- [spidernode](https://github.com/zpao/spidernode) : A port of node.js using the SpiderMonkey JS engine instead of V8
