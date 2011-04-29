@@ -66,11 +66,10 @@
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
 - [node-jake](https://github.com/mde/node-jake) : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [node-io](http://node.io/) : A distributed data scraping and processing framework for node.js [Github](https://github.com/chriso/node.io)
-- [node-hot-reload|https://github.com/shimondoodkin/node-hot-reload) : watchFile and reload modules dynamically for node.js (useful for front end development)
+- [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) : watchFile and reload modules dynamically for node.js (useful for front end development)
 - [FAYE](http://faye.jcoglan.com/) : Simple pub/sub messaging for the web
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
 - [node-notifo](https://github.com/nerocreativo/node-notifo) : Real-time notifications pushed to your mobile phone
 - [Node-API-Simulator](https://github.com/mlowicki/node-api-simulator)
-- [node.io](http://node.io/)
 - [spidernode](https://github.com/zpao/spidernode) : A port of node.js using the SpiderMonkey JS engine instead of V8
