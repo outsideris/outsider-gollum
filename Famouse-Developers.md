@@ -7,3 +7,9 @@
 - GoF(Gang of Four) : Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - Rod Johnson : Spirng의 창시자
 - Brad Cox : Objective-C 언어를 디자인 한 사람
+- Sam Stephenson : prototype.js 만든 사람
+- Thomas Fuchs : Script.aculo.us 만든 사람
+- Gavin King : Hibernate 만든 사람
+- Jurgen Holler : Spring framework의 co-founder
+- Adrian Colyer : Springsource CTO, AspectJ 프로젝트 리더
+- Ben Alex : Spring Roo 창시자
