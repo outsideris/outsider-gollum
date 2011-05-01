@@ -18,3 +18,5 @@
 - [Scala IO](http://jesseeichar.github.com/scala-io/) : The Scala IO umbrella project consists of a few sub projects for different aspects and extensions of IO
 - [Akka](http://akka.io/) : Simpler Scalability, Fault-Tolerance, Concurrency & Remoting through Actors
 - [kafka](http://sna-projects.com/kafka/) : Kafka is a distributed publish/subscribe messaging system
+- [Gizzard](https://github.com/twitter/gizzard) : A framework for creating distributed datastores.
+- [spray](https://github.com/spray/spray) : A Scala framework for building RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable
