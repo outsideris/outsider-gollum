@@ -1,0 +1,2 @@
+- [Scala Official](http://www.scala-lang.org/)
+- [Scalathon](http://scalathon.org/) : The International Scala Hackathon
