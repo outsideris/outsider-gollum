@@ -58,6 +58,7 @@
 - [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
 - [weld](https://github.com/hij1nx/weld) : Template antimater for Node.JS 
 - [jade](http://jade-lang.com/) : robust, incredibly feature rich template engine for nodejs [Github](https://github.com/visionmedia/jade)
+- [node-raphael](https://github.com/dodo/node-raphael) : using the beautiful SVG library Raphaël on Node.js to generate svg-data
 
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
