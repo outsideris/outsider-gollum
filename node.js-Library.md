@@ -40,6 +40,7 @@
 - [node-postgres](https://github.com/brianc/node-postgres) : PostgreSQL Client for node.js
 - [mongolia](https://github.com/masylum/mongolia) : wrapper for the nodejs MongoDB driver
 - [node-sqlite3](https://github.com/developmentseed/node-sqlite3) : Asynchronous, non-blocking SQLite3 bindings for node.js
+- [node-cassandra-client](https://github.com/racker/node-cassandra-client) : Higher level Cassandra client for Node.js 
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
