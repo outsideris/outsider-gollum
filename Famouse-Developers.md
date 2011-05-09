@@ -1,9 +1,9 @@
-- Brendan Eich : JavaScript의 창시자
-- Douglas Crockford : Yahoo! Javascript 아키텍쳐
+- Brendan Eich : JavaScript의 창시자 [Blog](http://brendaneich.com/) [Twitter](http://twitter.com/BrendanEich)
+- Douglas Crockford : Yahoo! Javascript 아키텍쳐 [Site](http://www.crockford.com/)
 - Hakon Wium Lie : CSS의 창시자로 Opera Software CTO
-- James Jesse Garrett : Adaptive Path의 co-founder중 한 명으로 Ajax란 말을 만든 사람
-- Joe Hewitt : Firebug, DOM Inspector 창시자 최근에는 iUI 만듬
-- John Resig : jQuery의 창시자
+- James Jesse Garrett : Adaptive Path의 co-founder중 한 명으로 Ajax란 말을 만든 사람 [Blog](http://blog.jjg.net/)
+- Joe Hewitt : Firebug, DOM Inspector 창시자 최근에는 iUI 만듬 [Blog](http://joehewitt.com/) 
+- John Resig : jQuery의 창시자 [Blog](http://ejohn.org/) [Twitter](http://twitter.com/jeresig)
 - GoF(Gang of Four) : Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - Rod Johnson : Spirng의 창시자
 - Brad Cox : Objective-C 언어를 디자인 한 사람
