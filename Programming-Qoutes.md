@@ -21,3 +21,5 @@
 - **Walking on water and developing software from a specification are easy if both are frozen.** by Edward V Berard
 
 - **It couldn't get any shorter unless it read yourmind (코드는 이해할 수 없다면 짧아질 수 없다.)** by Dave Methvin
+
+-**Seriously - it's amazingly great that programming is a job.** by Ryan Dalh
