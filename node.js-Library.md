@@ -49,6 +49,7 @@
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) : A full-featured http proxy for node.js
 - [drty](https://github.com/drtyhbo/drty) : A django port to node.js
 - [express-on-railway](https://github.com/1602/express-on-railway) : Some Ruby-On-Rails features for Express.js framework 
+- [Porter](https://github.com/hij1nx/porter) : a lightweight, resourced oriented, abstraction layer for JSON-REST
 
 ### Utility
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
@@ -77,3 +78,4 @@
 - [spidernode](https://github.com/zpao/spidernode) : A port of node.js using the SpiderMonkey JS engine instead of V8
 - [everyauth](https://github.com/bnoguchi/everyauth) : node.js auth package (password, facebook, & more) for Connect and Express apps
 - [express-mongoose](https://github.com/LearnBoost/express-mongoose) : Plugin for easy rendering of Mongoose async Query results.
+- [SugarSkull](https://github.com/hij1nx/SugarSkull) : A Client Side Router for Single Page Apps
