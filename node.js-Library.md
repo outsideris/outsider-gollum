@@ -79,3 +79,4 @@
 - [everyauth](https://github.com/bnoguchi/everyauth) : node.js auth package (password, facebook, & more) for Connect and Express apps
 - [express-mongoose](https://github.com/LearnBoost/express-mongoose) : Plugin for easy rendering of Mongoose async Query results.
 - [SugarSkull](https://github.com/hij1nx/SugarSkull) : A Client Side Router for Single Page Apps
+- [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
