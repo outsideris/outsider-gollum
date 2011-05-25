@@ -1,4 +1,7 @@
 - [twerp](https://github.com/philjackson/twerp) : Really simple, class based testing framework for node and Coffeescript.
 
+### Web Framework
+- [cupcake](https://github.com/twilson63/cupcake) : A project generator for express and coffee-script.
+
 ### Tools
 - [cloud9-livecoffee-ext](https://github.com/tanepiper/cloud9-livecoffee-ext) : A extension for Cloud9ide for CoffeeScript functionality
