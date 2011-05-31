@@ -30,7 +30,6 @@
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
-- [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) : hot-reload if code changed
 
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
@@ -41,6 +40,7 @@
 - [mongolia](https://github.com/masylum/mongolia) : wrapper for the nodejs MongoDB driver
 - [node-sqlite3](https://github.com/developmentseed/node-sqlite3) : Asynchronous, non-blocking SQLite3 bindings for node.js
 - [node-cassandra-client](https://github.com/racker/node-cassandra-client) : Higher level Cassandra client for Node.js 
+- [node-mdb](https://github.com/robtweed/node-mdb) : Node.js Implementation of SimpleDB Clone (M/DB)
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
