@@ -55,7 +55,7 @@
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
 - [UglifyJS](https://github.com/mishoo/UglifyJS) : JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [node-retry](https://github.com/tim-kos/node-retry) : Abstraction for exponential and custom retry strategies for failed operations.
-
+- [nodemailer](http://www.nodemailer.org/) : an easy to use module to send e-mails with Node.JS (using SMTP or sendmail).
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
 - [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
