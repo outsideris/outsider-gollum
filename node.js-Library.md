@@ -41,6 +41,7 @@
 - [node-sqlite3](https://github.com/developmentseed/node-sqlite3) : Asynchronous, non-blocking SQLite3 bindings for node.js
 - [node-cassandra-client](https://github.com/racker/node-cassandra-client) : Higher level Cassandra client for Node.js 
 - [node-mdb](https://github.com/robtweed/node-mdb) : Node.js Implementation of SimpleDB Clone (M/DB)
+- [Sequelize](http://www.sequelizejs.com/) : provides easy access to a MySQL database by mapping database entries to objects and vice versa.
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
@@ -56,6 +57,8 @@
 - [UglifyJS](https://github.com/mishoo/UglifyJS) : JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [node-retry](https://github.com/tim-kos/node-retry) : Abstraction for exponential and custom retry strategies for failed operations.
 - [nodemailer](http://www.nodemailer.org/) : an easy to use module to send e-mails with Node.JS (using SMTP or sendmail).
+- [node-shell](https://github.com/wdavidw/node-shell) : Nice looking shell applications with pluggable middlewares
+
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
 - [node-canvas](https://github.com/LearnBoost/node-canvas) : Node canvas is a Cairo backed Canvas implementation for NodeJS
