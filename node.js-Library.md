@@ -58,6 +58,7 @@
 - [node-retry](https://github.com/tim-kos/node-retry) : Abstraction for exponential and custom retry strategies for failed operations.
 - [nodemailer](http://www.nodemailer.org/) : an easy to use module to send e-mails with Node.JS (using SMTP or sendmail).
 - [node-shell](https://github.com/wdavidw/node-shell) : Nice looking shell applications with pluggable middlewares
+- [node-prompt](https://github.com/nodejitsu/node-prompt) : A beautiful command-line prompt for node.js
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
