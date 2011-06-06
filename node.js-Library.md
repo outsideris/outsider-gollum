@@ -42,6 +42,7 @@
 - [node-cassandra-client](https://github.com/racker/node-cassandra-client) : Higher level Cassandra client for Node.js 
 - [node-mdb](https://github.com/robtweed/node-mdb) : Node.js Implementation of SimpleDB Clone (M/DB)
 - [Sequelize](http://www.sequelizejs.com/) : provides easy access to a MySQL database by mapping database entries to objects and vice versa.
+- [node-db-oracle](https://github.com/mariano/node-db-oracle) : Oracle database bindings for Node.js
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
@@ -86,3 +87,4 @@
 - [express-mongoose](https://github.com/LearnBoost/express-mongoose) : Plugin for easy rendering of Mongoose async Query results.
 - [SugarSkull](https://github.com/hij1nx/SugarSkull) : A Client Side Router for Single Page Apps
 - [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
+- [EventEmitter2](https://github.com/hij1nx/EventEmitter2) : A Node.js event emitter implementation with namespaces, wildcards, TTL and browser support
