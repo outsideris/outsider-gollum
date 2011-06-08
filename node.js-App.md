@@ -10,3 +10,4 @@
 - [LooseLeaf.js](http://looseleafjs.org/) : Lightweight blog engine for Node.
 - [Calipso](http://calip.so/) : A Node CMS
 - [Sozi](https://github.com/senshu/Sozi) : A presentation tool based on SVG
+- [replace](https://github.com/harthur/replace) : Command line search and replace utility 
