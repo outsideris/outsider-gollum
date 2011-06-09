@@ -35,6 +35,7 @@
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
 - [mongoose](https://github.com/LearnBoost/mongoose) : Node.JS MongoDB utility library with ORM-like functionalit
+- [mongoose-dbref](https://github.com/goulash1971/mongoose-dbref) : DBRef Support in Mongoose
 - [redis](https://github.com/visionmedia/redis) : Redis key-value store
 - [node_redis](https://github.com/mranney/node_redis) : redis client for node
 - [node-postgres](https://github.com/brianc/node-postgres) : PostgreSQL Client for node.js
