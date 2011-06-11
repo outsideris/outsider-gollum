@@ -91,3 +91,4 @@
 - [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
 - [EventEmitter2](https://github.com/hij1nx/EventEmitter2) : A Node.js event emitter implementation with namespaces, wildcards, TTL and browser support
 - [node-schema-org](https://github.com/indexzero/node-schema-org) : A node.js library that retrieves, parses and provides all schemas from [schema.org](http://schema.org/)
+- [broadcast](https://github.com/futuresimple/broadcast) : A broadcasting microframework making publishing of messages to different services easy.
