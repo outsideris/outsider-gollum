@@ -45,6 +45,7 @@
 - [node-mdb](https://github.com/robtweed/node-mdb) : Node.js Implementation of SimpleDB Clone (M/DB)
 - [Sequelize](http://www.sequelizejs.com/) : provides easy access to a MySQL database by mapping database entries to objects and vice versa.
 - [node-db-oracle](https://github.com/mariano/node-db-oracle) : Oracle database bindings for Node.js
+- [riak-js](http://riakjs.org/) : Riak Javascript client for node.js
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
