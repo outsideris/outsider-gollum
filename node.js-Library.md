@@ -31,6 +31,7 @@
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
+- [vogue](https://github.com/andrewdavey/vogue) : Save a CSS file, watch your web browser automatically reload it! 
 
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
