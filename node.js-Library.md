@@ -94,3 +94,4 @@
 - [node-schema-org](https://github.com/indexzero/node-schema-org) : A node.js library that retrieves, parses and provides all schemas from [schema.org](http://schema.org/)
 - [broadcast](https://github.com/futuresimple/broadcast) : A broadcasting microframework making publishing of messages to different services easy.
 - [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
+- [hook.io](https://github.com/Marak/hook.io) : a full featured i/o framework for node.js ( Uses dnode + forever + EventEmitter2 )
