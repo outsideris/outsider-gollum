@@ -11,4 +11,3 @@
 - [Calipso](http://calip.so/) : A Node CMS
 - [Sozi](https://github.com/senshu/Sozi) : A presentation tool based on SVG
 - [replace](https://github.com/harthur/replace) : Command line search and replace utility 
-- [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
