@@ -77,6 +77,9 @@
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
 
+### Desktip / GUI
+- [topcube](https://github.com/creationix/topcube) : Webkit Bindings for node
+
 ### etc
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
 - [node-jake](https://github.com/mde/node-jake) : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
