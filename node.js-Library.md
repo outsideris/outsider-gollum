@@ -66,6 +66,7 @@
 - [node-shell](https://github.com/wdavidw/node-shell) : Nice looking shell applications with pluggable middlewares
 - [node-prompt](https://github.com/nodejitsu/node-prompt) : A beautiful command-line prompt for node.js
 - [node-XMLHttpRequest](https://github.com/driverdan/node-XMLHttpRequest) : XMLHttpRequest for node.js
+- [libxmljs](https://github.com/polotek/libxmljs) : libxml bindings for v8 javascript engine
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
