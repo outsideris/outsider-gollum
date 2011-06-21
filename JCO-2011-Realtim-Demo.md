@@ -1,11 +1,16 @@
 ### Summary
 [JCO 2011](http://kjdc.org/) [Realtime web application with java 발표](http://blog.outsider.ne.kr/656)에서 Demo용으로 만든 Quiz를 풀어보는 웹애플리케이션
 
+### Collaborators
+- [Arawn](http://arawn.tistory.com/)
+- [윤군](http://helols.tistory.com/)
+
 ### Environments
 - jQuery
 - Tomcat 6
 - Java
 - [Stremhub](http://www.stream-hub.com/)
+- Maven
 
 ### Period
 2011.4.26 ~ 2011.6.19
