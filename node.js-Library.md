@@ -93,12 +93,15 @@
 - [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
 - [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
 
+### Security
+- [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
+- [everyauth](https://github.com/bnoguchi/everyauth) : node.js auth package (password, facebook, & more) for Connect and Express apps
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
 - [Node-API-Simulator](https://github.com/mlowicki/node-api-simulator)
 - [spidernode](https://github.com/zpao/spidernode) : A port of node.js using the SpiderMonkey JS engine instead of V8
-- [everyauth](https://github.com/bnoguchi/everyauth) : node.js auth package (password, facebook, & more) for Connect and Express apps
 - [SugarSkull](https://github.com/hij1nx/SugarSkull) : A Client Side Router for Single Page Apps
 - [EventEmitter2](https://github.com/hij1nx/EventEmitter2) : A Node.js event emitter implementation with namespaces, wildcards, TTL and browser support
 - [node-schema-org](https://github.com/indexzero/node-schema-org) : A node.js library that retrieves, parses and provides all schemas from [schema.org](http://schema.org/)
