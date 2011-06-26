@@ -17,6 +17,7 @@
 - [node-inspector](https://github.com/dannycoates/node-inspector) : Web Inspector based nodeJS debugger
 - [v8-profiler](https://github.com/dannycoates/v8-profiler) : node bindings for the v8 profiler 
 - [Benchmark.js](http://benchmarkjs.com/) : A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.
+- [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects.
 
 ### Testing
 - [Vows](http://vowsjs.org/) : Asynchronous behaviour driven development for Node [Github](https://github.com/cloudhead/vows)
@@ -35,6 +36,7 @@
 - [vogue](https://github.com/andrewdavey/vogue) : Save a CSS file, watch your web browser automatically reload it! 
 - [node-jake](https://github.com/mde/node-jake) : Build tool in JavaScript, similar to Make or Rake. Supports asynchronous tasks. Built to work with Node.js
 - [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) : watchFile and reload modules dynamically for node.js (useful for front end development)
+- [autolint](https://github.com/magnars/autolint) : Autolint watches your files for jslint-errors
 
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
