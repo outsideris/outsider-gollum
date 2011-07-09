@@ -111,3 +111,4 @@
 - [hook.io](https://github.com/Marak/hook.io) : a full featured i/o framework for node.js ( Uses dnode + forever + EventEmitter2 )
 - [zeromq.node](https://github.com/JustinTulloss/zeromq.node) : Node.js bindings to the zeromq library
 - [Kue](http://learnboost.github.com/kue/) : Kue is a priority job queue backed by redis [Github](https://github.com/learnboost/kue)
+- [log.io](http://logio.org/) : Real-time log monitoring in your browser
