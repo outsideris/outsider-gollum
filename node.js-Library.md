@@ -30,6 +30,7 @@
 - [Zombie.js](http://zombie.labnotes.org/) : Insanely fast, headless full-stack testing using Node.js [Github](https://github.com/assaf/zombie)
 - [spec](https://github.com/kitgoncharov/spec) : An event-driven JavaScript unit testing library
 - [Jessie](https://github.com/futuresimple/jessie) : Node runner for Jasmine JavaScript BDD testing framework
+- [peanut](https://github.com/didit-tech/peanut) : node.js cucumber implementation for the birds
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
