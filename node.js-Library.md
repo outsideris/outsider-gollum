@@ -73,6 +73,7 @@
 - [node-prompt](https://github.com/nodejitsu/node-prompt) : A beautiful command-line prompt for node.js
 - [node-XMLHttpRequest](https://github.com/driverdan/node-XMLHttpRequest) : XMLHttpRequest for node.js
 - [libxmljs](https://github.com/polotek/libxmljs) : libxml bindings for v8 javascript engine
+- [pdfkit](http://devongovett.github.com/pdfkit/) : A PDF generation library for Node.js, [Github](https://github.com/devongovett/pdfkit)
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
