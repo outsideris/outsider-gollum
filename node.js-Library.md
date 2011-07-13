@@ -74,6 +74,8 @@
 - [node-XMLHttpRequest](https://github.com/driverdan/node-XMLHttpRequest) : XMLHttpRequest for node.js
 - [libxmljs](https://github.com/polotek/libxmljs) : libxml bindings for v8 javascript engine
 - [pdfkit](http://devongovett.github.com/pdfkit/) : A PDF generation library for Node.js, [Github](https://github.com/devongovett/pdfkit)
+- [NodObjC](https://github.com/TooTallNate/NodObjC) : A high-level Objective-C interpreter for NodeJS
+- [node-objc](https://github.com/TooTallNate/node-objc) : A bi-directional bridge between NodeJS and the Objective-C Runtime
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
