@@ -31,6 +31,7 @@
 - [spec](https://github.com/kitgoncharov/spec) : An event-driven JavaScript unit testing library
 - [Jessie](https://github.com/futuresimple/jessie) : Node runner for Jasmine JavaScript BDD testing framework
 - [peanut](https://github.com/didit-tech/peanut) : node.js cucumber implementation for the birds
+- [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
