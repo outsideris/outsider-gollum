@@ -79,6 +79,7 @@
 - [NodObjC](https://github.com/TooTallNate/NodObjC) : A high-level Objective-C interpreter for NodeJS
 - [node-objc](https://github.com/TooTallNate/node-objc) : A bi-directional bridge between NodeJS and the Objective-C Runtime
 - [node-jsonpointer](https://github.com/janl/node-jsonpointer) : JSON Pointer implementation for NodeJS 
+- [node-ffi](https://github.com/rbranson/node-ffi) : Node.js Foreign Function Interface
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
