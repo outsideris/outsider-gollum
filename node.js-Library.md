@@ -77,6 +77,7 @@
 - [pdfkit](http://devongovett.github.com/pdfkit/) : A PDF generation library for Node.js, [Github](https://github.com/devongovett/pdfkit)
 - [NodObjC](https://github.com/TooTallNate/NodObjC) : A high-level Objective-C interpreter for NodeJS
 - [node-objc](https://github.com/TooTallNate/node-objc) : A bi-directional bridge between NodeJS and the Objective-C Runtime
+- [node-jsonpointer](https://github.com/janl/node-jsonpointer) : JSON Pointer implementation for NodeJS 
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
