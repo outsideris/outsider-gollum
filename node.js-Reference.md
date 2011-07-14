@@ -1,3 +1,5 @@
 - [Transloadit](http://transloadit.com/)
 - [Toss the Projector: Redefining the Presenter-Audience Dynamic](http://go.donahueapp.com/presentations/view/tosstheprojector/points/1)
 - [Instagram Real-Time Updates API Demo](http://demo.instagram.com/)
+- [live is beautiful](http://node.9elements.com/) : live activity tracking [img.ly](http://img.ly/) with Node.js - using socket.io
+- [Voxer](http://voxer.com/) : [article](http://www.theregister.co.uk/2011/03/01/the_rise_and_rise_of_node_dot_js/), [Case study](http://www.joyentcloud.com/documents/node/casestudy-voxer-20110406.pdf)
