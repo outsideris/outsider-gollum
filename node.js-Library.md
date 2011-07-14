@@ -32,6 +32,7 @@
 - [Jessie](https://github.com/futuresimple/jessie) : Node runner for Jasmine JavaScript BDD testing framework
 - [peanut](https://github.com/didit-tech/peanut) : node.js cucumber implementation for the birds
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects
+- [nodeunit](https://github.com/caolan/nodeunit) : Easy unit testing in node.js and the browser, based on the assert module.
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
@@ -118,3 +119,4 @@
 - [zeromq.node](https://github.com/JustinTulloss/zeromq.node) : Node.js bindings to the zeromq library
 - [Kue](http://learnboost.github.com/kue/) : Kue is a priority job queue backed by redis [Github](https://github.com/learnboost/kue)
 - [log.io](http://logio.org/) : Real-time log monitoring in your browser
+- [node-twitter](https://github.com/jdub/node-twitter) : Asynchronous Twitter REST/stream/search client API for node.js
