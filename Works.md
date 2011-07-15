@@ -6,6 +6,7 @@
 - 1.6 - [Introducing to node.js](http://www.slideshare.net/rockdoli/introducing-to-nodejs) : Presentation for node.js in HTML5 Adhoc Group of [Mobile Web2.0 Forum](http://www.mobileok.kr/web/forum1/purpose.php) ([post](http://blog.outsider.ne.kr/577))
 - 1.29 - [What is nodejs](http://www.slideshare.net/rockdoli/what-is-nodejs-6751599) : Presentation for node.js in [SpringSprout](http://www.springsprout.org/) [Swagger](http://www.springsprout.org/study/4494) ([post](http://blog.outsider.ne.kr/587))
 - 6.19 - [Realtime web application with java](http://www.slideshare.net/rockdoli/realtime-web-application-with-java) : in [제11회 2011 한국자바개발자컨퍼런스](http://kjdc.org/) ([post](http://blog.outsider.ne.kr/656)) with [Arawn](http://arawn.tistory.com/)
+- 7.2 [Node.js 자바스크립트로 서버사이드 개발하기](http://www.slideshare.net/rockdoli/nodejs-8492796) : in [KSUG](http://www.ksug.org/) 번개세미나 ([post](http://blog.outsider.ne.kr/663))
 
 ## Experiment
 ### 2011
