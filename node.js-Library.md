@@ -33,6 +33,7 @@
 - [peanut](https://github.com/didit-tech/peanut) : node.js cucumber implementation for the birds
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects
 - [nodeunit](https://github.com/caolan/nodeunit) : Easy unit testing in node.js and the browser, based on the assert module.
+- [jasmine-node](https://github.com/mhevery/jasmine-node) : Integration of Jasmine Spec framework with Node.js
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
