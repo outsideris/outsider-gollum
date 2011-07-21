@@ -34,6 +34,7 @@
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects
 - [nodeunit](https://github.com/caolan/nodeunit) : Easy unit testing in node.js and the browser, based on the assert module.
 - [jasmine-node](https://github.com/mhevery/jasmine-node) : Integration of Jasmine Spec framework with Node.js
+- [node-bunker](https://github.com/substack/node-bunker) : code coverage in native javascript 
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
