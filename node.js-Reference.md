@@ -4,3 +4,4 @@
 - [live is beautiful](http://node.9elements.com/) : live activity tracking [img.ly](http://img.ly/) with Node.js - using socket.io
 - [Voxer](http://voxer.com/) : [article](http://www.theregister.co.uk/2011/03/01/the_rise_and_rise_of_node_dot_js/), [Case study](http://www.joyentcloud.com/documents/node/casestudy-voxer-20110406.pdf)
 - HP WebOS
+- [docpad](https://github.com/balupton/docpad) : DocPad is the easiest way to create your static website.
