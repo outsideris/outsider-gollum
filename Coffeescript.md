@@ -2,6 +2,7 @@
 
 ### Web Framework
 - [cupcake](https://github.com/twilson63/cupcake) : A project generator for express and coffee-script.
+- [coffeekup](https://github.com/mauricemach/coffeekup) : Markup as CoffeeScript
 
 ### Tools
 - [cloud9-livecoffee-ext](https://github.com/tanepiper/cloud9-livecoffee-ext) : A extension for Cloud9ide for CoffeeScript functionality
