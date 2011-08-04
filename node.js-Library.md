@@ -18,6 +18,7 @@
 - [v8-profiler](https://github.com/dannycoates/v8-profiler) : node bindings for the v8 profiler 
 - [Benchmark.js](http://benchmarkjs.com/) : A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects.
+- [profilejs](https://github.com/HerdHound/profilejs) : V8 profiling for Express framework
 
 ### Testing
 - [Vows](http://vowsjs.org/) : Asynchronous behaviour driven development for Node [Github](https://github.com/cloudhead/vows)
