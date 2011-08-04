@@ -125,3 +125,4 @@
 - [Kue](http://learnboost.github.com/kue/) : Kue is a priority job queue backed by redis [Github](https://github.com/learnboost/kue)
 - [log.io](http://logio.org/) : Real-time log monitoring in your browser
 - [node-twitter](https://github.com/jdub/node-twitter) : Asynchronous Twitter REST/stream/search client API for node.js
+- [reds](https://github.com/visionmedia/reds) : light-weight full text search module for node.js - backed by Redis
