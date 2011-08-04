@@ -12,3 +12,4 @@
 - [Sozi](https://github.com/senshu/Sozi) : A presentation tool based on SVG
 - [replace](https://github.com/harthur/replace) : Command line search and replace utility 
 - [Log.io](http://logio.org/) : Real-time log monitoring in your browser
+- [iodocs](https://github.com/mashery/iodocs) : Interactive API documentation system 
