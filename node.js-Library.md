@@ -106,6 +106,7 @@
 - [node-io](http://node.io/) : A distributed data scraping and processing framework for node.js [Github](https://github.com/chriso/node.io)
 - [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
 - [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
+- [http-server](https://github.com/nodejitsu/http-server) : a simple zero-configuration command-line http server 
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
@@ -127,3 +128,4 @@
 - [node-twitter](https://github.com/jdub/node-twitter) : Asynchronous Twitter REST/stream/search client API for node.js
 - [reds](https://github.com/visionmedia/reds) : light-weight full text search module for node.js - backed by Redis
 - [nssocket](https://github.com/nodejitsu/nssocket) : Name Spaced Sockets! With automatic buffering.
+- [ngist](https://github.com/chapel/ngist) : Gist module and CLI tool for node.js
