@@ -6,3 +6,4 @@
 - HP WebOS
 - [docpad](https://github.com/balupton/docpad) : DocPad is the easiest way to create your static website.
 - [Github's nodeload2](https://github.com/blog/900-nodeload2-downloads-reloaded) : what prepares git repository contents into zip and tarballs.
+- [LinkedIn used Node.js and HTML5 to build a better, faster app](http://venturebeat.com/2011/08/16/linkedin-node/)
