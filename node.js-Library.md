@@ -97,8 +97,9 @@
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
 
-### Desktip / GUI
+### Desktop / GUI
 - [topcube](https://github.com/creationix/topcube) : Webkit Bindings for node
+- [commander.js](https://github.com/visionmedia/commander.js) : node.js command-line interfaces made easy 
 
 ### Network
 - [node-spdy](https://github.com/indutny/node-spdy) : SPDY server on Node.js
