@@ -109,6 +109,7 @@
 - [Beseda](https://github.com/geometria-lab/Beseda) : Fast, well designed and featured Node.js Pub/Sub server based on patched Socket.io
 - [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
 - [http-server](https://github.com/nodejitsu/http-server) : a simple zero-configuration command-line http server 
+- [restler](https://github.com/danwrong/restler) : REST client library for node.js
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
@@ -131,3 +132,4 @@
 - [reds](https://github.com/visionmedia/reds) : light-weight full text search module for node.js - backed by Redis
 - [nssocket](https://github.com/nodejitsu/nssocket) : Name Spaced Sockets! With automatic buffering.
 - [ngist](https://github.com/chapel/ngist) : Gist module and CLI tool for node.js
+- [node-webworker](https://github.com/pgriess/node-webworker) : A WebWorkers implementation for NodeJS
