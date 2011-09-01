@@ -45,6 +45,7 @@
 - [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) : watchFile and reload modules dynamically for node.js (useful for front end development)
 - [autolint](https://github.com/magnars/autolint) : Autolint watches your files for jslint-errors
 - [node-express-boilerplate](https://github.com/mape/node-express-boilerplate) : A boilerplate to quickly get projects going. It gives the developer a clean slate to start with while bundling enough useful features.
+- [buildr](https://github.com/balupton/buildr.npm) : The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)
 
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
