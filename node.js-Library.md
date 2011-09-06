@@ -119,6 +119,9 @@
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
 - [everyauth](https://github.com/bnoguchi/everyauth) : node.js auth package (password, facebook, & more) for Connect and Express apps
 
+### Tools
+- [nide](http://coreh.github.com/nide/) : a web-based IDE for Node.js, designed with simplicity and ease-of-use in mind.
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
