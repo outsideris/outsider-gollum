@@ -141,3 +141,4 @@
 - [ngist](https://github.com/chapel/ngist) : Gist module and CLI tool for node.js
 - [node-webworker](https://github.com/pgriess/node-webworker) : A WebWorkers implementation for NodeJS
 - [node-caching](https://github.com/mape/node-caching/) : Easier caching in node.js
+- [Q-Oper8](https://github.com/robtweed/Q-Oper8) : Multi-process manager for Node.js
