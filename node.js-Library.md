@@ -137,3 +137,4 @@
 - [nssocket](https://github.com/nodejitsu/nssocket) : Name Spaced Sockets! With automatic buffering.
 - [ngist](https://github.com/chapel/ngist) : Gist module and CLI tool for node.js
 - [node-webworker](https://github.com/pgriess/node-webworker) : A WebWorkers implementation for NodeJS
+- [node-caching](https://github.com/mape/node-caching/) : Easier caching in node.js
