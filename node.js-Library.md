@@ -62,6 +62,7 @@
 - [node-db-oracle](https://github.com/mariano/node-db-oracle) : Oracle database bindings for Node.js
 - [riak-js](http://riakjs.org/) : Riak Javascript client for node.js
 - [express-mongoose](https://github.com/LearnBoost/express-mongoose) : Plugin for easy rendering of Mongoose async Query results.
+- [Node.js Database Drivers](http://nodejsdb.org/) : Node.js bindings to relational databases
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
