@@ -4,6 +4,7 @@
 - [Circumflex](http://circumflex.ru/index.html)
 - [Scalatra](https://github.com/scalatra/scalatra) : Tiny Scala web framework, inspired by Sinatra 
 - [Blueeyes](https://github.com/jdegoes/blueeyes) : A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
+- [Brzy Web Application Framework](http://brzy.org/) : 
 
 ### Views
 - [Scalate](http://scalate.fusesource.org/) : Scala Template Engine
