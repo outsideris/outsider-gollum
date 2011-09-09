@@ -122,6 +122,11 @@
 ### Tools
 - [nide](http://coreh.github.com/nide/) : a web-based IDE for Node.js, designed with simplicity and ease-of-use in mind.
 
+### Logging
+- [styout](https://github.com/TrevorBurnham/styout) : Simple logging using sty
+- [log.io](http://logio.org/) : Real-time log monitoring in your browser
+- [clog](https://github.com/firejune/clog) : Colorful console output in NodeJS
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
@@ -134,7 +139,6 @@
 - [hook.io](https://github.com/Marak/hook.io) : a full featured i/o framework for node.js ( Uses dnode + forever + EventEmitter2 )
 - [zeromq.node](https://github.com/JustinTulloss/zeromq.node) : Node.js bindings to the zeromq library
 - [Kue](http://learnboost.github.com/kue/) : Kue is a priority job queue backed by redis [Github](https://github.com/learnboost/kue)
-- [log.io](http://logio.org/) : Real-time log monitoring in your browser
 - [node-twitter](https://github.com/jdub/node-twitter) : Asynchronous Twitter REST/stream/search client API for node.js
 - [reds](https://github.com/visionmedia/reds) : light-weight full text search module for node.js - backed by Redis
 - [nssocket](https://github.com/nodejitsu/nssocket) : Name Spaced Sockets! With automatic buffering.
