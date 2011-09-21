@@ -7,3 +7,4 @@
 ### Tools
 - [cloud9-livecoffee-ext](https://github.com/tanepiper/cloud9-livecoffee-ext) : A extension for Cloud9ide for CoffeeScript functionality
 - [Jitter](https://github.com/TrevorBurnham/jitter) : A simple CoffeeScript compilation utility
+- [htmlkup](https://github.com/colinta/htmlkup) : Converts html to coffeekup 
