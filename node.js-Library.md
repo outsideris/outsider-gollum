@@ -72,7 +72,8 @@
 - [drty](https://github.com/drtyhbo/drty) : A django port to node.js
 - [express-on-railway](https://github.com/1602/express-on-railway) : Some Ruby-On-Rails features for Express.js framework 
 - [Porter](https://github.com/hij1nx/porter) : a lightweight, resourced oriented, abstraction layer for JSON-REST
-- [nerve](https://github.com/gjritter/nerve) : A microframework for node.js. 
+- [nerve](https://github.com/gjritter/nerve) : A microframework for node.js.
+- [Strata](http://stratajs.org/) : A fast, streaming web framework for node.js patterned after WSGI/Rack
 
 ### Utility
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
