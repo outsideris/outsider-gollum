@@ -108,6 +108,7 @@
 ### Network
 - [node-spdy](https://github.com/indutny/node-spdy) : SPDY server on Node.js
 - [Socket.IO](http://socket.io/) [Socket.IO client](https://github.com/LearnBoost/Socket.IO) [Socket.IO node](https://github.com/LearnBoost/Socket.IO-node) : Sockets for the rest of us (in Node.js)
+- [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc) : socket.io v0.7.2+ for ios devices
 - [node-notifo](https://github.com/nerocreativo/node-notifo) : Real-time notifications pushed to your mobile phone
 - [FAYE](http://faye.jcoglan.com/) : Simple pub/sub messaging for the web
 - [node-io](http://node.io/) : A distributed data scraping and processing framework for node.js [Github](https://github.com/chriso/node.io)
