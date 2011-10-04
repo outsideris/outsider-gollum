@@ -97,6 +97,7 @@
 - [weld](https://github.com/hij1nx/weld) : Template antimater for Node.JS 
 - [jade](http://jade-lang.com/) : robust, incredibly feature rich template engine for nodejs [Github](https://github.com/visionmedia/jade)
 - [node-raphael](https://github.com/dodo/node-raphael) : using the beautiful SVG library Raphaël on Node.js to generate svg-data
+- [nib](http://visionmedia.github.com/nib/) : CSS3 extensions for Stylus
 
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
