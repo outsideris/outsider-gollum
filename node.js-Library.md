@@ -151,3 +151,4 @@
 - [Q-Oper8](https://github.com/robtweed/Q-Oper8) : Multi-process manager for Node.js
 - [marked](https://github.com/chjj/marked) : A markdown parser and compiler.
 - [konphyg](https://github.com/pgte/konphyg) : Cascading configuration files made easy in Node.js.
+- [node-thrift](https://github.com/wadey/node-thrift) : nodejs thrift implementation
