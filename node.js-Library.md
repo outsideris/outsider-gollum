@@ -19,6 +19,7 @@
 - [Benchmark.js](http://benchmarkjs.com/) : A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects.
 - [profilejs](https://github.com/HerdHound/profilejs) : V8 profiling for Express framework
+- [node-ben](https://github.com/substack/node-ben) : benchmark synchronous and asynchronous snippets simply
 
 ### Testing
 - [Vows](http://vowsjs.org/) : Asynchronous behaviour driven development for Node [Github](https://github.com/cloudhead/vows)
@@ -117,6 +118,7 @@
 - [Pubsub.io](http://www.pubsub.io/) : A query based client/server publish subscribe protocol built on node.js.
 - [http-server](https://github.com/nodejitsu/http-server) : a simple zero-configuration command-line http server 
 - [restler](https://github.com/danwrong/restler) : REST client library for node.js
+- [formaline](https://github.com/rootslab/formaline) : a full-featured (nodeJS) module for handling form requests ( HTTP POSTs / PUTs ) and for fast parsing of file uploads, it is also ready to use with middlewares like connect .
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
