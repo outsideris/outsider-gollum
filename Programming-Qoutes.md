@@ -23,3 +23,7 @@
 * **Seriously - it's amazingly great that programming is a job.** by Ryan Dalh
 
 * **Innovation distinguishes between a leader and a follower.** by Steve Jobs
+
+* **Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.** by Steve Jobs
+
+* **Design is not just what it looks like and feels like design is how it works.** by Steve Jobs
