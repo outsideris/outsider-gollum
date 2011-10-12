@@ -102,6 +102,7 @@
 
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
+- [dox](https://github.com/visionmedia/dox) : JavaScript documentation generator for node using markdown and jsdoc
 
 ### Desktop / GUI
 - [topcube](https://github.com/creationix/topcube) : Webkit Bindings for node
