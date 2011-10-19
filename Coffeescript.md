@@ -10,6 +10,7 @@
 - [Jitter](https://github.com/TrevorBurnham/jitter) : A simple CoffeeScript compilation utility
 - [htmlkup](https://github.com/colinta/htmlkup) : Converts html to coffeekup 
 - [sideline](https://github.com/assaf/sideline) : a CoffeeScript shell for your server
+- [coffee-toaster](https://github.com/serpentem/coffee-toaster) : Minimalist dependency management system for coffee-script.
 
 ### Views
 - [eco](https://github.com/sstephenson/eco) : Embedded CoffeeScript templates
