@@ -1,5 +1,7 @@
+### Benchmark
 * [Node.js Performance Graphs](http://arlolra.no.de/)
 * [Ruby vs Node](https://github.com/carbonfive/hellod) : HTTP performance testing 
+* [socket.io benchmark](http://vimeo.com/30828282)
 
 ### Guides
 * [Nodejitsu Practical Node.js Docs](http://docs.nodejitsu.com/)
