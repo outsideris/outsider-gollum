@@ -21,3 +21,4 @@
 - [kafka](http://sna-projects.com/kafka/) : Kafka is a distributed publish/subscribe messaging system
 - [Gizzard](https://github.com/twitter/gizzard) : A framework for creating distributed datastores.
 - [spray](https://github.com/spray/spray) : A Scala framework for building RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable
+- [ScalaStorm](https://github.com/velvia/ScalaStorm) : Harness the power and elegance of Scala with nathanmarz's Storm real-time system
