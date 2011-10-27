@@ -157,3 +157,4 @@
 - [marked](https://github.com/chjj/marked) : A markdown parser and compiler.
 - [konphyg](https://github.com/pgte/konphyg) : Cascading configuration files made easy in Node.js.
 - [node-thrift](https://github.com/wadey/node-thrift) : nodejs thrift implementation
+- [common-node](http://olegp.github.com/common-node/) : Synchronous CommonJS compatibility layer for Node.js
