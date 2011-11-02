@@ -92,6 +92,7 @@
 - [node-jsonpointer](https://github.com/janl/node-jsonpointer) : JSON Pointer implementation for NodeJS 
 - [node-ffi](https://github.com/rbranson/node-ffi) : Node.js Foreign Function Interface
 - [stats](https://github.com/visionmedia/stats) : JavaScript source statistics with simple API & CLI written with node.js 
+- [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console like what
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
