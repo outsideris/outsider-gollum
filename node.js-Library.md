@@ -138,6 +138,13 @@
 - [log.io](http://logio.org/) : Real-time log monitoring in your browser
 - [clog](https://github.com/firejune/clog) : Colorful console output in NodeJS
 
+### Option Parser
+* [node-operetta](https://github.com/tricknik/node-operetta) : A node option parser that sings! 
+* [node-optimist](https://github.com/substack/node-optimist) : Light-weight option parsing for node.js
+* [commander.js](https://github.com/visionmedia/commander.js) : node.js command-line interfaces made easy
+* [nomnom](https://github.com/harthur/nomnom) : Option parser for node with generated usage and commands
+* [nopt](https://github.com/isaacs/nopt) : Node/npm Option Parsing 
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
