@@ -2,6 +2,8 @@
 * [Node.js Performance Graphs](http://arlolra.no.de/)
 * [Ruby vs Node](https://github.com/carbonfive/hellod) : HTTP performance testing 
 * [socket.io benchmark](http://vimeo.com/30828282)
+* [Node.js is FAST](http://baudehlo.wordpress.com/2011/09/13/node-js-is-fast/)
+* [Benchmarking Node.js - basic performance tests against Apache + PHP](http://zgadzaj.com/benchmarking-nodejs-basic-performance-tests-against-apache-php)
 
 ### Guides
 * [Nodejitsu Practical Node.js Docs](http://docs.nodejitsu.com/)
