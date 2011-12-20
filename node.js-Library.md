@@ -76,6 +76,7 @@
 - [Porter](https://github.com/hij1nx/porter) : a lightweight, resourced oriented, abstraction layer for JSON-REST
 - [nerve](https://github.com/gjritter/nerve) : A microframework for node.js.
 - [Strata](http://stratajs.org/) : A fast, streaming web framework for node.js patterned after WSGI/Rack
+* [node-rack](https://github.com/dresende/node-rack) : NodeJS Cluster Abstraction Layer
 
 ### Utility
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
