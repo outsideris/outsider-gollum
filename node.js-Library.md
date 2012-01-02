@@ -146,6 +146,10 @@
 * [nomnom](https://github.com/harthur/nomnom) : Option parser for node with generated usage and commands
 * [nopt](https://github.com/isaacs/nopt) : Node/npm Option Parsing 
 
+###Flow Control
+* [async](https://github.com/caolan/async) : Async utilities for node and the browser
+* [Nimble](http://caolan.github.com/nimble/) : Functional flow-control for JavaScript, that is lightweight and portable.
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
