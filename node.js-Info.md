@@ -15,3 +15,6 @@
 * [Node Up](http://nodeup.com/)
 * [Node Tuts](http://nodetuts.com/)
 * [Planet node.js](http://www.planetnodejs.com/)
+
+###Info
+* [Node Templates](http://paularmstrong.github.com/node-templates/index.html)
