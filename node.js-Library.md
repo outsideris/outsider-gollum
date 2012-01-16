@@ -20,6 +20,7 @@
 - [node-stack-trace](https://github.com/felixge/node-stack-trace) : Get v8 stack traces as an array of CallSite objects.
 - [profilejs](https://github.com/HerdHound/profilejs) : V8 profiling for Express framework
 - [node-ben](https://github.com/substack/node-ben) : benchmark synchronous and asynchronous snippets simply
+* [node-tick](https://github.com/sidorares/node-tick) : node.js-runnable v8.log processor (d8 + %platform%-tick-processor friend)
 
 ### Testing
 - [Vows](http://vowsjs.org/) : Asynchronous behaviour driven development for Node [Github](https://github.com/cloudhead/vows)
