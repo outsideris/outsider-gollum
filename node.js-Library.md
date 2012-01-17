@@ -135,6 +135,7 @@
 ### Tools
 - [nide](http://coreh.github.com/nide/) : a web-based IDE for Node.js, designed with simplicity and ease-of-use in mind.
 - [node-dbmon](https://github.com/straps/node-dbmon) : Node.js Database Real-Time Monitoring Library
+* [node-websocket-activity-monitor](https://github.com/jasondavies/node-websocket-activity-monitor)
 
 ### Logging
 - [styout](https://github.com/TrevorBurnham/styout) : Simple logging using sty
