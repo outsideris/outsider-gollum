@@ -27,3 +27,5 @@
 * **Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.** by Steve Jobs
 
 * **Design is not just what it looks like and feels like design is how it works.** by Steve Jobs
+
+* **얼마나 열심히 일했는가를 말하지 말고, 얼마나 많이 해냈는가를 이야기하라.** by James J. Ling (미국 작가)
