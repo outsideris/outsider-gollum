@@ -18,3 +18,6 @@
 
 ###Info
 * [Node Templates](http://paularmstrong.github.com/node-templates/index.html)
+
+###Hosting
+* [cloudno.de](http://cloudno.de/)
