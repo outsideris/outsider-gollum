@@ -49,6 +49,7 @@
 - [node-express-boilerplate](https://github.com/mape/node-express-boilerplate) : A boilerplate to quickly get projects going. It gives the developer a clean slate to start with while bundling enough useful features.
 - [buildr](https://github.com/balupton/buildr.npm) : The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)
 * [node-dev](https://github.com/fgnass/node-dev) : Supervisor for node.js
+* [up](https://github.com/learnboost/up) : Zero-downtime reloads and requests load balancer based on distribute.
 
 ### Databases
 - [node-mongodb-native](https://github.com/christkv/node-mongodb-native) : Mongo DB Native NodeJS Driver 
@@ -127,6 +128,7 @@
 - [http-server](https://github.com/nodejitsu/http-server) : a simple zero-configuration command-line http server 
 - [restler](https://github.com/danwrong/restler) : REST client library for node.js
 - [formaline](https://github.com/rootslab/formaline) : a full-featured (nodeJS) module for handling form requests ( HTTP POSTs / PUTs ) and for fast parsing of file uploads, it is also ready to use with middlewares like connect .
+* [distribute](https://github.com/learnboost/distribute) : Distribute is a middleware-based API to expressively perform request routing / load balancing in Node.JS.
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
