@@ -156,6 +156,7 @@
 ###Flow Control
 * [async](https://github.com/caolan/async) : Async utilities for node and the browser
 * [Nimble](http://caolan.github.com/nimble/) : Functional flow-control for JavaScript, that is lightweight and portable.
+* [asyncblock](https://github.com/scriby/asyncblock) : A simple and powerful abstraction of node-fibers
 
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
