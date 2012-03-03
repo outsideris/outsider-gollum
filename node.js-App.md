@@ -14,3 +14,4 @@
 * [Log.io](http://logio.org/) : Real-time log monitoring in your browser
 * [iodocs](https://github.com/mashery/iodocs) : Interactive API documentation system 
 * [Locally](https://github.com/rhiokim/locally)
+* [gh-markdown-cli](https://github.com/millermedeiros/gh-markdown-cli) : Node.js command-line tool to batch convert Markdown files into HTML
