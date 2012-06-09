@@ -68,6 +68,7 @@
 - [express-mongoose](https://github.com/LearnBoost/express-mongoose) : Plugin for easy rendering of Mongoose async Query results.
 - [Node.js Database Drivers](http://nodejsdb.org/) : Node.js bindings to relational databases
 - [DREV](https://github.com/arunoda/drev) : Distributed Redis based EventEmitter for NodeJS
+- [node-sqlserver](https://github.com/WindowsAzure/node-sqlserver) : The Microsoft Driver for Node.js for SQL Server allows Node.js applications on Microsoft Windows and Microsoft Windows Azure to access Microsoft SQL Server and Microsoft Windows Azure SQL Database.
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
