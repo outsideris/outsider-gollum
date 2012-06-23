@@ -20,3 +20,5 @@
 
 ##Translation
 ###Online
+* [Simply Lift](http://blog.outsider.ne.kr/tag/Simply%20Lift)
+* [Spring Framework Reference Documentation](http://blog.outsider.ne.kr/tag/spring_reference_documentation) : progressing...
