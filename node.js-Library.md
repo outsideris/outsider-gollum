@@ -114,6 +114,7 @@
 ### Documentation
 - [nclosure](https://github.com/gatapia/nclosure) : Server-side Google Closure with Node.js
 - [dox](https://github.com/visionmedia/dox) : JavaScript documentation generator for node using markdown and jsdoc
+- [madge](https://github.com/pahen/node-madge) : Create graphs from your CommonJS or AMD module dependencies
 
 ### Desktop / GUI
 - [topcube](https://github.com/creationix/topcube) : Webkit Bindings for node
