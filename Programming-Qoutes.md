@@ -109,3 +109,9 @@
 >**나더러 미쳤다고? 꿈에 도전하지 않는 사람이야 말로 미친 사람이다.**
 
 >Alain Robert
+
+--------
+
+>**Design is a philosophy. Engineering is a philosophy. Not a profession.**
+
+>Kyle Neath at Github
