@@ -21,3 +21,6 @@
 
 ###Hosting
 * [cloudno.de](http://cloudno.de/)
+
+###Books
+* [Nodejs Programming By Example](http://www.barnesandnoble.com/w/nodejs-programming-by-example-agus-kurniawan/1112571768)
