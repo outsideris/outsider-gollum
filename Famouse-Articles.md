@@ -6,4 +6,4 @@
 - [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) : Martin Fowler의 DI에 대한 글
 - [Comet: Low Latency Data for the Browser](http://infrequently.org/2006/03/comet-low-latency-data-for-the-browser/) : DOJO의 Alex Russell이 Comet이란 용어를 정의한 글
 - [WorldWideWeb wide-area hypertext app available](https://groups.google.com/forum/?fromgroups=#!topic/comp.sys.next.announce/avWAjISncfw) : Tim Berners-Lee's Original Announcement (1991)
-- [http://infolab.stanford.edu/~backrub/google.html](http://infolab.stanford.edu/~backrub/google.html) : 래리 페이지와 세르게이 브린이 작성한 Page Rank에 대해 1998년도에 작성한 논문
+- [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) : 래리 페이지와 세르게이 브린이 작성한 Page Rank에 대해 1998년도에 작성한 논문
