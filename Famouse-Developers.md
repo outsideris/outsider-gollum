@@ -13,3 +13,4 @@
 - Jurgen Holler : Spring framework의 co-founder
 - Adrian Colyer : Springsource CTO, AspectJ 프로젝트 리더
 - Ben Alex : Spring Roo 창시자
+- Maurice Wilkes : Subroutine 개념 만듦
