@@ -1,3 +1,5 @@
 - CAPTCHA : Completely Automated Public Turing test to tell Computers and Humans Apart
 - REST : Representation State Transfer
 - RFC : Request for Comments
+- YAGNI : You Aren't Gonna Need It
+- NIH : Not Invented Here
