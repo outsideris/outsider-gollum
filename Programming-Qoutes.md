@@ -175,3 +175,9 @@
 >**언어의 한계가 곧 자기 세계의 한계다.**
 
 > 루트비히 비트겐슈타인
+
+--------
+
+>**With great power comes great responsibility.**
+
+>스파이더 맨 중에서
