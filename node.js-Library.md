@@ -105,6 +105,7 @@
 - [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console like what
 - [nosync](https://github.com/isaacs/nosync) : Prevent sync functions in your node programs after first tick
 - [octonode](https://github.com/pksunkara/octonode) : ithub api v3 in nodejs
+- [better-require](https://github.com/olalonde/better-require) : Augments require() with support for multiple file formats.
 
 ### View
 - [Stylus](http://learnboost.github.com/stylus/) : Expressive, robust, feature-rich CSS language built for nodejs [Github](https://github.com/learnboost/stylus)
@@ -137,6 +138,7 @@
 - [restler](https://github.com/danwrong/restler) : REST client library for node.js
 - [formaline](https://github.com/rootslab/formaline) : a full-featured (nodeJS) module for handling form requests ( HTTP POSTs / PUTs ) and for fast parsing of file uploads, it is also ready to use with middlewares like connect .
 * [distribute](https://github.com/learnboost/distribute) : Distribute is a middleware-based API to expressively perform request routing / load balancing in Node.JS.
+* [superagent](https://github.com/visionmedia/superagent) : Ajax with less suck - (and node.js HTTP client to match)
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
