@@ -181,3 +181,9 @@
 >**With great power comes great responsibility.**
 
 >스파이더 맨 중에서
+
+--------
+
+>**This is the Node Way. Build it the simplest way possible, then benchmark and profile.**
+
+> Issac Z.Schlueter
