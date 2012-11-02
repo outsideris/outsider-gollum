@@ -86,6 +86,7 @@
 * [Tower.js](http://towerjs.org/) : Full Stack Web Framework for Node.js and the Browser.
 * [flatiron](http://flatironjs.org/) : an adaptable framework for building modern web applications.
     - [broadway](https://github.com/flatiron/broadway)
+* [hapi](http://walmartlabs.github.com/hapi/) : Node.js HTTP API Server framework
 
 ### Utility
 - [jsdom](http://jsdom.org/) : CommonJS implementation of the DOM [Github](https://github.com/tmpvar/jsdom)
