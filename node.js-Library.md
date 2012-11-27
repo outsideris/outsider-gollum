@@ -192,3 +192,4 @@
 - [common-node](http://olegp.github.com/common-node/) : Synchronous CommonJS compatibility layer for Node.js
 - [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) : vvvv "clone" in javascript/webgl 
 - [nios](https://github.com/seppo0010/nios) : Node.js port for iOS 
+* [POMELO](http://pomelo.netease.com/) : Fast, scalable, distributed game server framework for node.js
