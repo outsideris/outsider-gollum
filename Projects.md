@@ -1,8 +1,12 @@
 ### 2010
-- [[Messier 31]]
-- [[Messier 32]]
-- [[Hotflow]]
+* [[Messier 31]]
+* [[Messier 32]]
+* [[Hotflow]]
 
 ### 2011
-- [[Side Effect Studio]]
-- [[JCO 2011 Realtim Demo]]
+* [[Side Effect Studio]]
+* [[JCO 2011 Realtim Demo]]
+
+### 2012
+* [[passport-me2day]]
+* [[GDFS]]
