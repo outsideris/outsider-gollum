@@ -8,6 +8,9 @@
 * 6.19 - [Realtime web application with java](http://www.slideshare.net/rockdoli/realtime-web-application-with-java) : in [제11회 2011 한국자바개발자컨퍼런스](http://kjdc.org/) ([post](http://blog.outsider.ne.kr/656)) with [Arawn](http://arawn.tistory.com/)
 * 7.2 [Node.js 자바스크립트로 서버사이드 개발하기](http://www.slideshare.net/rockdoli/nodejs-8492796) : in [KSUG](http://www.ksug.org/) 번개세미나 ([post](http://blog.outsider.ne.kr/663))
 
+###2012
+* 11.20 [Learning Dtrace](https://speakerdeck.com/outsider/learning-dtrace) : in [play.node(); 컨퍼런스](http://nodeconf.kr/2012/)
+
 ##Experiment
 ###2011
 * [1to50](http://labs.sideeffect.kr/2011/1to50/) : simple cappuccino example of 1to50 iphone game for graduation work of [FRENDS Cappuccino Study](http://wiki.frends.kr/index.php/Cappuccino) - [Source](https://github.com/FRENDS-Research/Cappuccino/tree/master/graduation-work/outsideris) - 1.11 ~ 1.25
@@ -22,4 +25,4 @@
 ###Online
 * [Simply Lift](http://blog.outsider.ne.kr/tag/Simply%20Lift)
 * [Spring Framework Reference Documentation](http://blog.outsider.ne.kr/tag/spring_reference_documentation) : progressing...
-* [Node.js Manual & Documentation](http://nodeconf.kr/docs/) : progressing...
+* [Node.js Manual & Documentation](http://nodejs.sideeffect.kr/docs/) : progressing...
