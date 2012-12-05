@@ -167,6 +167,10 @@
 * [Nimble](http://caolan.github.com/nimble/) : Functional flow-control for JavaScript, that is lightweight and portable.
 * [asyncblock](https://github.com/scriby/asyncblock) : A simple and powerful abstraction of node-fibers
 
+###Clouds
+* [aws-sdk-](https://github.com/aws/aws-sdk-js) : AWS SDK for Node.js
+* [pkgcloud](https://github.com/nodejitsu/pkgcloud) : pkgcloud is a standard library for node.js that abstracts away differences among multiple cloud providers.
+
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
 - [node-crontab](https://github.com/dachev/node-crontab) : A module for reading, manipulating, and writing user cron jobs with node.js
