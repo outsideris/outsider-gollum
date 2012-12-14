@@ -187,3 +187,9 @@
 >**This is the Node Way. Build it the simplest way possible, then benchmark and profile.**
 
 > Issac Z.Schlueter
+
+--------
+
+>**You Are Not Your Code.**
+
+> Sam Stephenson in <http://sstephenson.us/posts/you-are-not-your-code>
