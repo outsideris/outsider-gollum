@@ -193,3 +193,9 @@
 >**You Are Not Your Code.**
 
 > Sam Stephenson in <http://sstephenson.us/posts/you-are-not-your-code>
+
+--------
+
+>**"Don't reinvent the wheel" - Someone who understands neither invention, nor wheels.**
+
+> Issac Z.Schlueter
