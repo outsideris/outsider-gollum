@@ -199,3 +199,21 @@
 >**"Don't reinvent the wheel" - Someone who understands neither invention, nor wheels.**
 
 > Issac Z.Schlueter
+
+--------
+
+>**Talk is cheap. Show me the code.**
+
+> Linus Torvalds
+
+--------
+
+>**Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**
+
+> Linus Torvalds
+
+--------
+
+>**Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**
+
+> Martin Fowler
