@@ -141,6 +141,7 @@
 - [formaline](https://github.com/rootslab/formaline) : a full-featured (nodeJS) module for handling form requests ( HTTP POSTs / PUTs ) and for fast parsing of file uploads, it is also ready to use with middlewares like connect .
 * [distribute](https://github.com/learnboost/distribute) : Distribute is a middleware-based API to expressively perform request routing / load balancing in Node.JS.
 * [superagent](https://github.com/visionmedia/superagent) : Ajax with less suck - (and node.js HTTP client to match)
+* [unio](https://github.com/ttezel/unio) : One REST API Client for All 
 
 ### Security
 - [komainu](https://github.com/mrmarbles/komainu) : Evented security microframework designed for use with NodeJS Connect-based web applications (ExpressJS) 
