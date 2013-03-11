@@ -10,6 +10,7 @@
 - [[node.js]]
 - [[JavaScript]]
 - [[Coffeescript]]
+- [[Tools]]
 
 ### etc
 - [[Famouse Developers]]
