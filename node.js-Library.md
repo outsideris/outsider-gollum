@@ -41,6 +41,7 @@
 - [vows-bdd](https://github.com/jmreidy/vows-bdd) : A BDD wrapper for Vows, allowing for easy writing of tests in a given-when-then format 
 - [Testem](https://github.com/airportyh/testem) : Test'em 'Scripts! A test runner that makes Javascript unit testing fun
 - [proxyquire](https://github.com/thlorenz/proxyquire) : Proxies nodejs require in order to allow overriding dependencies during testing
+- [istanbul](https://github.com/gotwarlost/istanbul) : Yet another JS code coverage tool 
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
