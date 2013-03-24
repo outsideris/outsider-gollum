@@ -42,6 +42,7 @@
 - [Testem](https://github.com/airportyh/testem) : Test'em 'Scripts! A test runner that makes Javascript unit testing fun
 - [proxyquire](https://github.com/thlorenz/proxyquire) : Proxies nodejs require in order to allow overriding dependencies during testing
 - [istanbul](https://github.com/gotwarlost/istanbul) : Yet another JS code coverage tool 
+- [coveralls](https://github.com/cainus/node-coveralls) : jscon-cov posting to coveralls.io
 
 ### Productivity
 - [nodemon](https://github.com/remy/nodemon) : Monitor for any changes in your node.js application and automatically restart the server
