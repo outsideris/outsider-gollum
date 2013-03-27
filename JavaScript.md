@@ -1,2 +1,3 @@
-- [[JavaScript Library]]
-- [[JavaScript Demo]]
+* [[JavaScript Library]]
+* [[JavaScript Demo]]
+* [[jQuery Plugins]]
