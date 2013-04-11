@@ -129,6 +129,8 @@
 ### Desktop / GUI
 - [topcube](https://github.com/creationix/topcube) : Webkit Bindings for node
 - [commander.js](https://github.com/visionmedia/commander.js) : node.js command-line interfaces made easy 
+* [node-webkit](https://github.com/rogerwang/node-webkit) : Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies
+* [appjs](http://appjs.org/) : Build Desktop Applications for Linux, Windows and Mac using HTML, CSS and Javascript
 
 ### Network
 - [node-spdy](https://github.com/indutny/node-spdy) : SPDY server on Node.js
