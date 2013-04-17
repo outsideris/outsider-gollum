@@ -73,6 +73,12 @@
 - [Node.js Database Drivers](http://nodejsdb.org/) : Node.js bindings to relational databases
 - [DREV](https://github.com/arunoda/drev) : Distributed Redis based EventEmitter for NodeJS
 - [node-sqlserver](https://github.com/WindowsAzure/node-sqlserver) : The Microsoft Driver for Node.js for SQL Server allows Node.js applications on Microsoft Windows and Microsoft Windows Azure to access Microsoft SQL Server and Microsoft Windows Azure SQL Database.
+* [relational](https://github.com/brianc/node-relational) : ORM with an emphasis on the O, the R, and the M. 
+* [any-db](https://github.com/grncdr/node-any-db) :Thin and less-opinionated database abstraction layer for node.
+* [massive](https://github.com/robconery/massive) :A small, happy, data access tool that will love you forever.
+* [sql](https://github.com/brianc/node-sql) : SQL generation for node.js
+* [db-migrate](https://github.com/nearinfinity/node-db-migrate) : Database migration framework for node 
+
 
 ### Web Framework
 - [express](https://github.com/visionmedia/express) : Sinatra inspired web development framework for node
@@ -173,10 +179,16 @@
 * [async](https://github.com/caolan/async) : Async utilities for node and the browser
 * [Nimble](http://caolan.github.com/nimble/) : Functional flow-control for JavaScript, that is lightweight and portable.
 * [asyncblock](https://github.com/scriby/asyncblock) : A simple and powerful abstraction of node-fibers
+* [q](https://github.com/kriskowal/q) : A tool for making and composing asynchronous promises in JavaScript 
 
 ###Clouds
 * [aws-sdk-](https://github.com/aws/aws-sdk-js) : AWS SDK for Node.js
 * [pkgcloud](https://github.com/nodejitsu/pkgcloud) : pkgcloud is a standard library for node.js that abstracts away differences among multiple cloud providers.
+
+### Validator
+* [jayschema](https://github.com/natesilva/jayschema) : A comprehensive JSON Schema validator for Node.js 
+* [validator](https://github.com/chriso/node-validator) : String validation and sanitization in JavaScript
+* [conform.js](https://github.com/okv/conform.js) : A schema validation and filtering framework for node.js 
 
 ### etc
 - [cli](https://github.com/chriso/cli) : a toolkit for rapidly building command line apps
