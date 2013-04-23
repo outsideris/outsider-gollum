@@ -17,3 +17,6 @@
 * [loggly](http://loggly.com/) : The world's most popular cloud-based log management service delivers application intelligence.
 * [logstash](http://www.logstash.net/) : logstash is a tool for managing events and logs.
 
+## Load testing
+
+* [thor](https://github.com/observing/thor) : The WebSocket god of thunder
