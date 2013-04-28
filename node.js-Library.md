@@ -78,6 +78,7 @@
 * [massive](https://github.com/robconery/massive) :A small, happy, data access tool that will love you forever.
 * [sql](https://github.com/brianc/node-sql) : SQL generation for node.js
 * [db-migrate](https://github.com/nearinfinity/node-db-migrate) : Database migration framework for node 
+* [squel](http://hiddentao.github.io/squel/) : lightweight Javascript library for building SQL query strings.
 
 
 ### Web Framework
