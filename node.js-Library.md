@@ -21,6 +21,8 @@
 - [profilejs](https://github.com/HerdHound/profilejs) : V8 profiling for Express framework
 - [node-ben](https://github.com/substack/node-ben) : benchmark synchronous and asynchronous snippets simply
 * [node-tick](https://github.com/sidorares/node-tick) : node.js-runnable v8.log processor (d8 + %platform%-tick-processor friend)
+* [debug](https://github.com/visionmedia/debug) : tiny node.js & browser debugging utility for your libraries and applications
+* [traceGL](https://trace.gl/index.html) : you can see all JavaScript codeflow, in a high performance webGL visualiser. Its like an oscilloscope, for code.
 
 ### Testing
 - [Vows](http://vowsjs.org/) : Asynchronous behaviour driven development for Node [Github](https://github.com/cloudhead/vows)
@@ -217,3 +219,4 @@
 - [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) : vvvv "clone" in javascript/webgl 
 - [nios](https://github.com/seppo0010/nios) : Node.js port for iOS 
 * [POMELO](http://pomelo.netease.com/) : Fast, scalable, distributed game server framework for node.js
+* [configstore](https://github.com/yeoman/configstore) : Easily load and persist config without having to think about where and how
