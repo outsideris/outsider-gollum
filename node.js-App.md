@@ -17,3 +17,4 @@
 * [gh-markdown-cli](https://github.com/millermedeiros/gh-markdown-cli) : Node.js command-line tool to batch convert Markdown files into HTML
 * [gith](https://github.com/danheberden/gith) : simple node server that responds to github post-receive events with meaningful data, GitHub WebHooks For Node
 * [http://mapbox.com/tilemill/](http://mapbox.com/tilemill/) : Make beautiful interactive maps
+* [node-ab](https://github.com/doubaokun/node-ab) : A command tool to test the performance of HTTP services.
