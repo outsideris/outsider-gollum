@@ -217,3 +217,9 @@
 >**Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**
 
 > Martin Fowler
+
+--------
+
+>**객체지행 설계는 특정 구현 기술보다, 심지어 자바보다도 더 중요한다.**
+
+> 로드 존슨
