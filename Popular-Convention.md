@@ -15,3 +15,4 @@
 - [Repository](https://github.com/outsideris/popularconvention)
 - [프로젝트 후기](http://blog.outsider.ne.kr/949)
 - [Github Data Challenge II Results](https://github.com/blog/1544-data-challenge-ii-results)에서 2등!! (결과에 대한 [후기](http://blog.outsider.ne.kr/955))
+- [Hacker News](https://news.ycombinator.com/item?id=5948722)
