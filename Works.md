@@ -1,5 +1,10 @@
 ##Presentation
 
+###2013
+
+* 9.7 [혼자서 프로젝트 수행하기](http://www.slideshare.net/rockdoli/gonggam-130907) in [개발자를 위한 ‘共感(공감)’ 세미나 12회](http://onoffmix.com/event/18657)
+* 7.6 [초급 개발자 탈출](http://www.slideshare.net/rockdoli/frends-meetup) in FRENDS Meetup
+
 ###2012
 * 11.20 [Learning Dtrace](https://speakerdeck.com/outsider/learning-dtrace) : in [play.node(); 컨퍼런스](http://nodeconf.kr/2012/)
 
